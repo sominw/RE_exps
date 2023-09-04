@@ -1,0 +1,36 @@
+We report a rare case of colonic mucosal necrosis following Kalimate (calcium polystryrene sulfonate), an analogue of Kayexalate without sorbitol in a 34-yr-old man.
+Relation List: [["calcium polystryrene sulfonate","colonic mucosal necrosis"],["Kalimate","colonic mucosal necrosis"],["Kayexalate","colonic mucosal necrosis"]]</s>
+
+Moreover, these findings suggest that the incidence of BOOP following rituximab therapy may be higher than has been previously appreciated.
+Relation List: [["rituximab","BOOP"]</s>
+
+Malignant mixed mullerian tumor of the uterus in a patient taking raloxifene.
+Relation List: [["raloxifene","Malignant mixed mullerian tumor of the uterus"]]</s>
+
+We describe a case of clozapine-induced seizures in a patient with treatment-resistant schizophrenia.
+Relation List: [["clozapine","seizures"]]</s>
+
+Fever, pulmonary infiltrates, and pleural effusion following acyclovir therapy for herpes zoster ophthalmicus.
+Relation List: [["acyclovir,Fever"],["acyclovir","pleural effusion"],["acyclovir","pulmonary infiltrates"]]</s>
+
+CONCLUSION: We believe this to be the first reported case of rhGH-induced hypercalcemia in an HIV-infected patient.
+Relation List: [["rhGH","hypercalcemia"]</s>
+
+A case of acute subdural haematoma originating spontaneously from an angiomatous meningioma in a patient receiving prophylactic aspirin therapy is presented.
+Relation List: [["aspirin","acute subdural haematoma"]]</s>
+
+We report the first case of doxycycline-induced hypoglycemia in a young nondiabetic man.
+Relation List: [["doxycycline","hypoglycemia"]]</s>
+
+PURPOSE: To describe bilateral corneal endothelial dysfunction in a patient with Parkinson disease who was treated with long-term amantadine.
+Relation List: [["amantadine","bilateral corneal endothelial dysfunction"]]</s>
+
+The Naranjo probability scale indicated a probable relationship between apnea and exposure to lamotrigine through breast-feeding in this infant.
+Relation List: [["lamotrigine","apnea"]]</s>
+
+Temporary neurologic abnormalities were observed in one out of 23 patients undergoing chemotherapy with high-dose methotrexate (HD-MTX) for osteogenic sarcoma.
+Relation List: [["methotrexate","Temporary neurologic abnormalities"]]</s>
+
+Complications of chemotherapy for a synovial sarcoma in an eight-year old boy included cisplatinum nephrotoxicity and adriamycin cardiotoxicity.
+Relation List: [["adriamycin","cardiotoxicity"],["cisplatinum","nephrotoxicity"]]</s>
+

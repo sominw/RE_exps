@@ -1,0 +1,21 @@
+Gentamicin-associated acute renal failure.
+[['Gentamicin', 'acute renal failure']]</s>
+
+Ampicillin-associated seizures.
+[['Ampicillin', 'seizures']]</s>
+
+Approximately 15 min after the first administration of nebulised morphine the patient became markedly bradypneic (respiratory rate: 4-5 bpm), hypotensive (BP 70/40 mmHg), and responded only partially to command.
+[['morphine', 'bradypneic'], ['morphine', 'hypotensive']]</s>
+
+Disseminated eruptive giant mollusca contagiosa in an adult psoriasis patient during efalizumab therapy.
+[['efalizumab', 'Disseminated eruptive giant mollusca contagiosa']]</s>
+
+Three patients are reported without a history of angina pectoris who had clinical and electrocardiographic evidence of myocardial ischemia during and immediately after BCNU infusion.
+[['BCNU', 'myocardial ischemia']]</s>
+
+Vogt-Koyanagi-Harada disease occurring during interferon alpha therapy for chronic hepatitis C.
+[['interferon alpha', 'Vogt-Koyanagi-Harada disease']]</s>
+
+Complications of chemotherapy for a synovial sarcoma in an eight-year old boy included cisplatinum nephrotoxicity and adriamycin cardiotoxicity.
+[[adriamycin,cardiotoxicity],[cisplatinum,nephrotoxicity]]</s>
+

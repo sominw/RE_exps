@@ -1,0 +1,39 @@
+Entity Types: [Peop, Loc, Org]
+Relation Types: [Work_For, Live_In, Located_In, OrgBased_In, Kill]
+
+TEXT: Penry raped Pamela Moseley Carpenter on Oct. 15 , 1979 , in Livingston , Texas , then stabbed her to death .
+Relation List: [["Livingston", "Located_In", "Texas"]]</s>
+
+TEXT: For singer and guitarist Bob Boyd , 57 , the Ranch has been home since he left Chattanooga , Tenn. , 35 years ago .
+Relation List: [["Bob Boyd", "Live_In", "Chattanooga"],["Bob Boyd", "Live_In", "Tenn."],["Chattanooga", "Located_In", "Tenn."]]</s>
+
+TEXT: Rome is in Lazio province and Naples in Campania .
+Relation List: [["Rome", "Located_In", "Lazio"],["Naples", "Located_In", "Campania"]]</s>
+
+TEXT: He has been the State Department 's refugee coordinator and is a former Harvard politics professor. _Ronald for the rank of ambassador during his tenure as U.S. negotiator on textile matters.
+Relation List: [["State Department", "OrgBased_In", 'U.S."],["Harvard", "OrgBased_In", "U.S."]]</s>
+
+TEXT: In another scene , President James Garfield 's assassin Charles Guiteau ( Jonathan Hadary ) prances up and down the stairs of the gallows where he will be hanged , all the while singing a spirited Gospel tune about " going to the Lordy . "
+Relation List: [["Charles Guiteau", "Kill", "President James Garfield"]]</s>
+
+TEXT: U.S. Coast Guard Training Center , Petaluma , Calif. ;
+Relation List: [["U.S. Coast Guard Training Center", "OrgBased_In", "Petaluma"],["U.S. Coast Guard Training Center", "OrgBased_In", "Calif."],["Petaluma", "Located_In", "Calif."]]</s>
+
+TEXT: The Environmental Protection Agency is working on a brochure advising diabetics of the best way to dispose of needles , said Robin Woods , a spokeswoman for the agency in Washington , D.C. It will suggest that diabetics place ` ` sharps ' ' _ the needle end of a syringe _ in a hard plastic or metal container like a coffee can before throwing it in the trash , Woods said.
+Relation List: [["The Environmental Protection Agency", "OrgBased_In", "Washington , D.C."],["Robin Woods", "Work_For", "The Environmental Protection Agency"],["Woods", "Work_For", "The Environmental Protection Agency"]]</s>
+
+TEXT: SAN FRANCISCO ( AP )
+Relation List: [["AP", "OrgBased_In", "SAN FRANCISCO"]]</s>
+
+TEXT: Moscow ITAR-TASS
+Relation List: [["ITAR-TASS", "OrgBased_In", "Moscow"]]</s>
+
+TEXT: He graduated from high school from Benton , Tenn. and from Tennessee Tech in Cookville , and holds a doctorate in physics from Virginia Tech .
+Relation List: [["Benton", "Located_In", "Tenn."],["Tennessee Tech", "OrgBased_In", "Tenn."],["Tennessee Tech", "OrgBased_In", "Cookville"],["Cookville", "Located_In", "Tenn."]]</s>
+
+TEXT: In 1752 , flagmaker Betsy Ross was born in Philadelphia .
+Relation List: [["Betsy Ross", "Live_In", "Philadelphia"]]</s>
+
+TEXT: David Foster is the AP 's Northwest regional reporter , based in Seattle.
+Relation List: [['David Foster", "Work_For", "AP"],["AP", "OrgBased_In", "Northwest"],["AP", "OrgBased_In", "Seattle"]]</s>
+

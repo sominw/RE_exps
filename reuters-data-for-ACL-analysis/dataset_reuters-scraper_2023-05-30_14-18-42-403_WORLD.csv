@@ -1,0 +1,650 @@
+﻿"author/0","canonicalLink","copyright","date","depth","description","favicon","image","keywords","lang","links/0/href","links/0/text","links/1/href","links/1/text","links/2/href","links/2/text","links/3/href","links/3/text","links/4/href","links/4/text","links/5/href","links/5/text","links/6/href","links/6/text","links/7/href","links/7/text","links/8/href","links/8/text","links/9/href","links/9/text","links/10/href","links/10/text","links/11/href","links/11/text","links/12/href","links/12/text","loadedDomain","loadedUrl","publisher","referrer","screenshotUrl","softTitle","startUrl","text","title","url"
+"Thomson Reuters","https://www.reuters.com/world/us/deepfaking-it-americas-2024-election-collides-with-ai-boom-2023-05-30/","2023 Reuters","2023-05-30T12:00:00.000Z","1","Thousands of deepfakes are surfacing on social media, blurring fact and fiction in the polarized world of U.S. politics.","/pf/resources/images/reuters/favicon/favicon.ico?d=143","https://www.reuters.com/resizer/jMIlD8HtYEBJrfVqBgXI3c4jQy8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TACM7RJXF5KSZNIUJZZKVRJYPU.jpg","EF:TECHNOLOGY-DISRUPTED,INSGHT,EREP,ANLINS,BSUP,BSUP1,CCOS,CLJ,CMPNY,CMSS,CMSS08,CRIM,CYCS,CYCS08,ENT,FRAUD1,GEN,HACK,INDS,INDS08,ISER,ISER08,ITSE,ITSE08,ITSE1,LIF,MDIA,MDIA08,MLAISV,NEWS1,POL,POTUS,PRIVT,PUB,PUBL,SMED,SOCI,SOFW,SOFW1,SWIT,TECH,TECH08,TMT,VOTE,WASH,WWW,EASIA,AMERS,US,CA,NAMER,ASXPAC,ASIA,JP,TOPNWS","en","https://www.thomsonreuters.com/en/about-us/trust-principles.html","The Thomson Reuters Trust Principles.",,,,,,,,,,,,,,,,,,,,,,,,,"reuters.com","https://www.reuters.com/world/us/deepfaking-it-americas-2024-election-collides-with-ai-boom-2023-05-30/","Reuters","https://www.reuters.com/world/",,"Deepfaking it: America's 2024 election collides with AI boom","https://www.reuters.com/world/","[1/5] Florida Governor Ron DeSantis makes his first trip to the early voting state of Iowa for a book tour stop at the Rhythm City Casino Resort in Davenport, Iowa, March 10, 2023. REUTERS/Jonathan Ernst
+
+[1/5] Florida Governor Ron DeSantis makes his first trip to the early voting state of Iowa for a book tour stop at the Rhythm City Casino Resort in Davenport, Iowa, March 10, 2023. REUTERS/Jonathan Ernst
+
+""I actually like Ron DeSantis a lot,"" Hillary Clinton reveals in a surprise online endorsement video. ""He's just the kind of guy this country needs, and I really mean that.""
+
+Joe Biden finally lets the mask slip, unleashing a cruel rant at a transgender person. ""You will never be a real woman,"" the president snarls.
+
+Welcome to America's 2024 presidential race, where reality is up for grabs.
+
+The Clinton and Biden deepfakes - realistic yet fabricated videos created by AI algorithms trained on copious online footage - are among thousands surfacing on social media, blurring fact and fiction in the polarized world of U. S. politics.
+
+While such synthetic media has been around for several years, it's been turbocharged over the past year by of a slew of new ""generative AI"" tools such as Midjourney that make it cheap and easy to create convincing deepfakes, according to Reuters interviews with about two dozen specialists in fields including AI, online misinformation and political activism.
+
+""It's going to be very difficult for voters to distinguish the real from the fake. And you could just imagine how either Trump supporters or Biden supporters could use this technology to make the opponent look bad,"" said Darrell West, senior fellow at the Brookings Institution's Center for Technology Innovation.
+
+""There could be things that drop right before the election that nobody has a chance to take down.""
+
+Tools that can generate deepfakes are being released with few or imperfect guardrails to prevent harmful misinformation as the tech sector engages in an AI arms race, said Aza Raskin, co-founder of the Center for Human Technology, a nonprofit that studies technology's impact on society.
+
+Former President Donald Trump, who will vie with DeSantis and others for the Republican nomination to face Biden, himself shared a doctored video of CNN anchor Anderson Cooper earlier this month on his social media platform Truth Social.
+
+""That was President Donald J. Trump ripping us a new asshole here on CNN's live presidential townhall,"" Cooper says in the footage, although the words don't match his lip movement.
+
+CNN said the video was a deepfake. A representative for Trump didn't respond to a request for comment on the clip, which was still on his son Donald Jr's Twitter page this week.
+
+While major social media platforms like Facebook, Twitter, and YouTube have made efforts to prohibit and remove deepfakes, their effectiveness at policing such content varies.
+
+There have been three times as many video deepfakes of all kinds and eight times as many voice deepfakes posted online this year compared to the same time period in 2022, according to DeepMedia, a company working on tools to detect synthetic media.
+
+In total, about 500,000 video and voice deepfakes will be shared on social media sites globally in 2023, DeepMedia estimates. Cloning a voice used to cost $10,000 in server and AI-training costs up until late last year, but now startups offer it for a few dollars, it says.
+
+No one is certain where the generative AI road leads or how to effectively guard against its power for mass misinformation, according to the people interviewed.
+
+Industry leader OpenAI, which has changed the game in recent months with its release of ChatGPT and the updated model GPT-4, is itself grappling with the issue. CEO Sam Altman told Congress this month that election integrity was a ""significant area of concern"" and urged rapid regulation of the sector.
+
+Unlike some smaller startups, OpenAI has taken steps to restrict use of its products in politics, according to a Reuters analysis of the terms of use of half a dozen leading companies offering generative-AI services.
+
+The guardrails have gaps, though.
+
+For example, OpenAI says it prohibits its image generator DALL-E from creating public figures - and indeed, when Reuters tried to create images of Trump and Biden, the request was blocked and a message appeared saying it ""may not follow our content policy.""
+
+Yet Reuters was able to create images of at least a dozen other U. S. politicians, including former Vice-President Mike Pence, who is also weighing a White House run for 2024.
+
+OpenAI also restricts any ""scaled"" usage of its products for political purposes. That bans use of its AI to send out mass personalized emails to constituents, for example.
+
+The company, which is backed by Microsoft, explained its political policies to Reuters in an interview but didn't respond to further requests for comment around enforcement gaps in its policies, such as blocking image creation of politicians.
+
+Several smaller startups have no explicit restrictions on political content.
+
+Midjourney, which launched last year, is the leading player in AI-generated images, with 16 million users on its official Discord server. The app, which ranges from free to $60 a month depending on factors such as picture quantity and speed, is a favorite of AI designers and artists due to its ability to generate hyper-realistic images of celebrities and politicians, according to four AI researchers and creators interviewed.
+
+Midjourney didn't respond to a request for comment for this article. During an online chat on Discord last week, CEO David Holz said the company would likely make changes ahead of the election to combat misinformation.
+
+Midjourney wants to cooperate on an industry solution to enable traceability of AI-generated images with a digital equivalent of watermarking and would consider blocking images of political candidates, Holz added.
+
+Even as the industry wrestles with how to prevent misuse, some political players are themselves seeking to harness the power of generative AI to soup up campaigns.
+
+So far, the only high-profile AI-generated political ad in the U. S. was one published by the Republican National Committee in late April. The 30-second ad, which the RNC disclosed as being entirely generated by AI, used fake images to suggest a cataclysmic scenario should Biden be reelected, with China invading Taiwan and San Francisco being shut down by crime.
+
+The RNC didn't respond to requests for comment on the ad or its wider use of AI. The Democratic National Committee declined to comment on its use of the technology.
+
+Reuters polled all the Republican presidential campaigns on their use of AI. Most did not reply, although Nikki Haley's team said they were not using the technology and longshot candidate Perry Johnson's campaign said it was using AI for ""copy generation and iteration,"" without giving further details.
+
+The potential for generative AI to produce campaign emails, posts and adverts is irresistible for some activists who feel the low-cost tech could level the playing field in elections.
+
+Even deep in rural Hillsdale, Michigan, machine intelligence is on the march.
+
+Jon Smith, Republican chair for Michigan's 5th Congressional district, is holding several educational meetings so his allies can learn to use AI for social media and ad generation.
+
+""AI helps us play against the big cats,"" he said. ""I see the biggest upswing in the local races. Someone who is 65 years old, a farmer and county commissioner, he could easily be primaried by a younger cat using the technology.""
+
+Political consultancies are also seeking to harness AI, further muddying the line between real and unreal.
+
+Numinar Analytics, a political data company that focuses on Republican clients, has begun experimenting with AI content generation for audio and images, as well as voice-generation to potentially create personalized messaging in a candidate's voice, founder Will Long said in an interview.
+
+Democratic polling and strategy group Honan Strategy Group is meanwhile trying to develop an AI survey bot. It hopes to unroll a female bot in time for the 2023 municipal elections, CEO Bradley Honan said, citing research that both men and women are more likely to speak to a female interviewer.","America's 2024 election collides with AI boom","https://www.reuters.com/world/us/deepfaking-it-americas-2024-election-collides-with-ai-boom-2023-05-30/"
+"By Steve Scherer and Nia Williams","https://www.reuters.com/world/americas/climate-battle-looms-alberta-premier-takes-aim-trudeau-2023-05-30/","2023 Reuters","2023-05-30T12:00:00.000Z","1","Alberta's election of conservative leader Danielle Smith puts her on a collision course with Canada's Liberal Prime Minister Justin Trudeau over climate policies that she claims will undermine the province's massive fossil fuel industry.","/pf/resources/images/reuters/favicon/favicon.ico?d=143","https://www.reuters.com/resizer/SdxWUkiX8NydXbi2RAsVaeU-xwg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/V2SBUTP5GVKQDBB5ASLUY7LMVU.jpg","RSBI:SUSTAINABLE-MARKETS,REPI:GAS,RSBI:CLIMATE-CHANGE,RSBI:CLEAN-ENERGY,ANV,EREP,ANLINS,AWLQ,CCAPTS,CLC,CMSS,CMSS08,CO2,COM,ECO,ENER,ENFF,ENG,ENR,ENV,ENVS,GEN,INDS,INDS08,ISER,ISER08,MCE,NGS,NRG,OILG,PLCY,POL,VOTE,WRM,AMERS,CA,NAMER,TOPNWS,ENERGY,DIP,TOPCMB","en","/world/americas/alberta-heads-polls-with-canadas-green-agenda-balance-2023-05-29/"," read more ","/markets/carbon/canadas-trudeau-urges-alberta-contribute-carbon-capture-incentives-2023-01-06/","told Reuters","/business/energy/cenovus-energy-ceo-says-alberta-ottawa-must-turn-down-temp-talk-more-2023-01-23/","collaboration","https://www.reuters.com/companies/CVE.TO","(CVE.TO)","https://www.thomsonreuters.com/en/about-us/trust-principles.html","The Thomson Reuters Trust Principles.",,,,,,,,,,,,,,,,,"reuters.com","https://www.reuters.com/world/americas/climate-battle-looms-alberta-premier-takes-aim-trudeau-2023-05-30/","Reuters","https://www.reuters.com/world/",,"Climate battle looms as Alberta premier Smith takes aim at Trudeau after election win","https://www.reuters.com/world/","[1/2] Danielle Smith of the United Conservative Party (UCP) gestures during her party's provincial election night party after a projected win in Calgary, Alberta, Canada May 29, 2023. REUTERS/Todd Korol/File Photo
+
+[1/2] Danielle Smith of the United Conservative Party (UCP) gestures during her party's provincial election night party after a projected win in Calgary, Alberta, Canada May 29, 2023. REUTERS/Todd Korol/File Photo
+
+May 30 (Reuters) - Alberta's election of conservative leader Danielle Smith puts her on a collision course with Canada's Liberal Prime Minister Justin Trudeau over climate policies that she claims will undermine the province's massive fossil fuel industry.
+
+Smith, leader of the United Conservative Party (UCP), defeated left-leaning New Democratic Party leader Rachel Notley on Monday, and immediately targeted Trudeau, threatening the country's ambitious climate goals.  read more
+
+Smith said Trudeau's Liberal climate policies will destroy tens of thousands of jobs in the oil and gas sector, which contributes more than 20% to Alberta's gross domestic product.
+
+Trudeau's government is aiming to cut climate-warming carbon emissions 40-45% by 2030, but will struggle to meet that target without significant reductions from Alberta, Canada's highest-polluting province.
+
+Some analysts have said deep emissions cuts are not possible without cutting oil production, which Smith fiercely opposes.
+
+In her victory speech in front of cheering supporters in Canada's oil capital Calgary, Smith called on Albertans to stand up against policies including the federal government's proposed oil and gas emissions cap and clean electricity regulations, expected to be unveiled within weeks.
+
+""Hopefully the prime minister and his caucus are watching tonight,"" Smith said. ""As premier I cannot under any circumstances allow these contemplated federal policies to be inflicted upon Albertans.""
+
+Canada has the world's third-largest oil reserves, most of which are held in northern Alberta's vast oil sands. The province produces around 80% of Canada's 4.9 million barrels per day of crude oil.
+
+""Let's create more good jobs, grow our economy, and continue to position Alberta as a leader in clean energy,"" Trudeau said in a tweet on Tuesday congratulating Smith on her victory.
+
+The federal government says Canada needs to cut emissions from oil and gas production to stay competitive as the world transitions to net-zero by 2050.
+
+Since winning party leadership and becoming premier in October, Smith passed legislation allowing the province to refuse to enforce federal laws it deems unconstitutional, and she has threatened to use it on legislation seen as a potential threat to the province's energy industry.
+
+Smith and Trudeau have also sparred over who should pay for potential increases to tax credits for carbon capture and storage (CCS) projects that the oil and gas wants to use to decarbonize its production process.
+
+""One of the challenges is there is a political class in Alberta that has decided that anything to do with climate change is going to be bad for them or for Alberta,"" Trudeau told Reuters in a January interview.
+
+However, some industry leaders seeking public sector funding for CCS are tiring of the combative relationship between the two levels of government and have called for better collaboration.
+
+Earlier this year, Alex Pourbaix, the then-CEO of oil producer Cenovus Energy (CVE. TO), said he would ""like to see the temperature turned down a little bit"".
+
+For Trudeau, Smith may be a better political counterpoint than her less controversial rival Notley would have been, as the Liberals can cast her as a western version of federal Conservative Party leader Pierre Poilievre.
+
+On Tuesday, Poilievre welcomed Smith's ""resounding victory"" and said Albertans had voted to ""stand up for our energy sector and unleash the full potential of Alberta's economy"".
+
+That said, provincial leaders of all political stripes tend to work with the federal government when it is beneficial to their electorate, as has been the case recently with federal funding for healthcare and childcare.
+
+""Danielle Smith is canny enough to know that she has to be able to work with Ottawa,"" said Shachi Kurl, president of pollster Angus Reid Institute.
+
+""There is a lot of bellicose rhetoric that comes from the Western premiers sometimes... But at the end of the day, politically, it does none of them any good to not be able to work together.""","Climate battle looms as Alberta premier Smith takes aim at Trudeau after election win","https://www.reuters.com/world/americas/climate-battle-looms-alberta-premier-takes-aim-trudeau-2023-05-30/"
+"By Ira Dugal","https://www.reuters.com/world/india/despite-world-beating-growth-indias-lack-jobs-threatens-its-young-2023-05-30/","2023 Reuters","2023-05-30T12:00:00.000Z","1","On a hot summer afternoon, 23-year old Nizamudin Abdul Rahim Khan is playing cricket on a muddy, unpaved road in the Rafiq Nagar slum in India's financial capital, Mumbai.","/pf/resources/images/reuters/favicon/favicon.ico?d=143","https://www.reuters.com/resizer/cU3skwsrKRD5Kd98Rrkv0ire2Tk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JEYG73GI3BLKLBFCWQPI5ZMWMM.jpg","EF:BUSINESS-WORLD-AT-WORK,ECI,ECO,GEN,JOB,MCE,MPLT,NEWS1,POL,SASIA,IN,ASXPAC,EMRG,ASIA,ECON","en","/world/india/indias-gdp-growth-could-top-7-fy23-rbi-governor-das-2023-05-24/","6.5% in the financial year","/world/india/india-have-29-mln-more-people-than-china-by-mid-2023-un-estimate-shows-2023-04-19/","world&apos;s most populous nation","/world/india/indias-migrant-millions-caught-between-jobless-villages-city-hazards-2023-04-18/","flock to the cities","https://www.thomsonreuters.com/en/about-us/trust-principles.html","The Thomson Reuters Trust Principles.",,,,,,,,,,,,,,,,,,,"reuters.com","https://www.reuters.com/world/india/despite-world-beating-growth-indias-lack-jobs-threatens-its-young-2023-05-30/","Reuters","https://www.reuters.com/world/",,"Despite world-beating growth, India's lack of jobs threatens its young","https://www.reuters.com/world/","[1/4] Nizamudin Abdul Rahim Khan, 23, a worker, poses for a photograph in an alley at a slum area in Mumbai, India, May 20, 2023. REUTERS/Niharika Kulkarni
+
+[1/4] Nizamudin Abdul Rahim Khan, 23, a worker, poses for a photograph in an alley at a slum area in Mumbai, India, May 20, 2023. REUTERS/Niharika Kulkarni
+
+MUMBAI, May 30 (Reuters) - On a hot summer afternoon, 23-year old Nizamudin Abdul Rahim Khan is playing cricket on a muddy, unpaved road in the Rafiq Nagar slum in India's financial capital, Mumbai.
+
+Here, there is scant evidence of India's fast-growing economy. Bordering what was once Asia largest garbage dumping ground, Rafiq Nagar and surrounding areas are home to an estimated 800,000 people, most living in tiny rooms across narrow, dark alleys.
+
+The young men and women in the area struggle to find jobs or work, and they mostly dawdle the day away, said Naseem Jafar Ali, who works with an NGO in the area.
+
+India's urban unemployment soared during the COVID-19 pandemic, reaching a high of 20.9% in the April-June 2020 quarter, while wages fell. While the unemployment rate has fallen since, fewer full-time jobs are available.
+
+Economists say more and more job-seekers, especially the young, are looking for low-paid casual work or falling back on unreliable self-employment, even though the broader Indian economy is seen growing at a world-beating 6.5% in the financial year ending in March 2024.
+
+India is overtaking China to become the world's most populous nation with over 1.4 billion people. Nearly 53% of them are under 30, its much-touted demographic dividend, but without jobs, tens of millions of young people are becoming a drag on the economy.
+
+""Unemployment is only the tip of the iceberg. What remains hidden beneath is the serious crisis of underemployment and disguised unemployment,"" said Radhicka Kapoor, fellow at economic research agency ICRIER.
+
+Khan for instance, offers himself as casual labour for home repairs or construction, earning just about 10,000 Indian rupees ($122) a month to help support his father and his four sisters. ""If I get a permanent job, then there will be no problem,"" he says.
+
+The risk for India is a vicious cycle for the economy. Falling employment and earnings undermine India’s chances to fuel the economic growth needed to create jobs for its young and growing population.
+
+""The fact that we have so many people who have been educated, have spent a lot of their own or family's money but are not being able to find the jobs they need, that's horrifying,"" she said.
+
+""It's not just the question of potential loss to the economy...it is a lost generation.""
+
+Unemployment is far more acute in India's cities, where the cost of living is high and there is no back-up in the form of a jobs guarantee programme which the government offers in rural areas. Still many in the army of rural unemployed flock to the cities to find jobs.
+
+While urban unemployment was at 6.8% in the January-March quarter, the share of urban workers with full-time jobs has declined to 48.9% as of December 2022 from an already low 50.5% just before the start of the pandemic, government data shows.
+
+This means that of the estimated urban workforce of about 150 million, only 73 million have full-time jobs.
+
+For people in urban areas with full time jobs, average monthly wages, adjusted for inflation, stood at 17,507 rupees ($212) in the April-June 2022 quarter - the latest period for which government data is available.
+
+This was a modest 1.2% higher than the October-December 2019 period, before the start of the pandemic.
+
+But for the self-employed, incomes have fallen to 14,762 ($178.67) rupees in the April-June 2022 quarter, according to research by Ghosh and C. P. Chandrashekhar, both at the University of Massachusetts, Amherst. It was at 15,247 rupees in the October-December 2019 quarter.
+
+""The big thing that has happened is the collapse of small businesses, which were the backbone of employment,"" said Ghosh.
+
+Since the Indian government's decision to demonetise 86% of the country's currency in circulation in 2016, there have seen continuous attacks on the viability of small business, with the pandemic being the latest, she said.
+
+Over 10,000 micro, small and medium enterprises shut in 2022-23 (April-March) alone, the government said in parliament in February. In the previous year, over 6,000 such units had shut. But the government did not specify whether any new enterprises were set up in those periods.
+
+Many families in Khan's neighbourhood, typical of the urban sprawl in the city of 21 million, have been hit by job losses and lower incomes in recent years. Young workers are particularly vulnerable.
+
+Arshad Ali Ansari, a 22-year-old student, said he saw his brother and sister lose their jobs soon after the start of the pandemic.
+
+Sitting in a single-room with a kitchen attached, where his family of eight lives, Ansari said they survive on his 60-year old father's earnings of about 20,000 rupees a month.
+
+His brother, who was a graduate and had worked in a bank, lost his job during the pandemic and had to join their father in painting houses.
+
+""My brother had education, he had experience,"" Ansari said.
+
+His sister, once a social worker, also lost her job and has given up hope of finding one.
+
+India will need to create 70 million new jobs over the next ten years, wrote Pranjul Bhandari, chief India economist at HSBC, in a note earlier this month. But only 24 million will likely be created, leaving behind ""46 million missing jobs.""
+
+""From that lens, a growth rate of 6.5% will solve a third of India’s jobs problem,"" Bhandari wrote.","Despite world-beating growth, India's lack of jobs threatens its young","https://www.reuters.com/world/india/despite-world-beating-growth-indias-lack-jobs-threatens-its-young-2023-05-30/"
+"Reuters","https://www.reuters.com/world/china/china-rebuffs-us-request-meeting-between-defense-chiefs-wsj-2023-05-29/","2023 Reuters","2023-05-30T12:00:00.000Z","1","China has declined a request from the United States for a meeting between their defense chiefs at an annual security forum in Singapore this weekend, media reported on Monday, a new sign of strain between the powers.","/pf/resources/images/reuters/favicon/favicon.ico?d=143","https://www.reuters.com/resizer/hUxbkcpSEPHsrDEhOqTjCJWWqT8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FSYFVDOV4JLIXFF5FKQZSNOBYE.jpg","BLR,DEF,DIP,GEN,NEWS1,POL,WASH,EASIA,AMERS,US,NAMER,ASXPAC,EMRG,CN,ASIA,CWP,SECUR,TOPNWS,TOPCMB,SG,ASEAN,SEASIA","en","/technology/white-house-says-chinas-actions-micron-wont-torpedo-relations-2023-05-24/","John Kirby","/world/china/us-sanctioned-general-become-public-face-chinas-growing-military-2023-03-12/","named defense minister","/world/chinas-commerce-minister-travels-us-meet-counterpart-attend-apec-meeting-2023-05-25/","traded barbs","https://www.thomsonreuters.com/en/about-us/trust-principles.html","The Thomson Reuters Trust Principles.",,,,,,,,,,,,,,,,,,,"reuters.com","https://www.reuters.com/world/china/china-rebuffs-us-request-meeting-between-defense-chiefs-wsj-2023-05-29/","Reuters","https://www.reuters.com/world/",,"China declines US request for a meeting between defense chiefs","https://www.reuters.com/world/","[1/2] Chinese Defence Minister Li Shangfu attends a meeting with Russian President Vladimir Putin and Defence Minister Sergei Shoigu in Moscow, Russia, April 16, 2023. Sputnik/Pavel Bednyakov/Pool via REUTERS
+
+[1/2] Chinese Defence Minister Li Shangfu attends a meeting with Russian President Vladimir Putin and Defence Minister Sergei Shoigu in Moscow, Russia, April 16, 2023. Sputnik/Pavel Bednyakov/Pool via REUTERS
+
+May 29 (Reuters) - China has declined a request from the United States for a meeting between their defense chiefs at an annual security forum in Singapore this weekend, media reported on Monday, a new sign of strain between the powers.
+
+""Overnight, the PRC informed the U. S. that they have declined our early May invitation for Secretary (Lloyd) Austin to meet with PRC Minister of National Defense Li Shangfu in Singapore,"" the Pentagon said in a statement to the Wall Street Journal, referring to China by the initials of its official name, the People's Republic of China.
+
+Li has been under U. S. sanctions since 2018 over the purchase of combat aircraft and equipment from Russia's main arms exporter, Rosoboronexport.
+
+The Pentagon said it believed in open communication ""to ensure that competition does not veer into conflict.""
+
+Last week, White House spokesman John Kirby said there were discussions by the Defense Department to get talks going between Austin and his Chinese counterpart, who was named defense minister in March.
+
+The prospect of a meeting was being closely watched given regional security tensions and trade disputes that have derailed plans for re-engagement by the world's two largest economies.
+
+China's foreign ministry on Tuesday blamed the United States for its decision, claiming that Washington was ""well aware"" of the reasons behind the lack of military communication.
+
+""The U. S. side should ... immediately correct its wrong practices, show sincerity, and create the necessary atmosphere and conditions for dialogue and communication between the two militaries,"" foreign ministry spokesperson Mao Ning told reporters at a briefing.
+
+Last week, U. S. Commerce Secretary Gina Raimondo and Chinese Commerce Minister Wang Wentao traded barbs on trade, investment and export policies in a meeting in Washington that marked the first U.S.-China cabinet-level exchange in months.
+
+Singapore-based security analyst Ian Storey said China's decision to shun Austin did not bode well.
+
+""At a time of rising U. S.-China tensions, General Li's refusal to meet his American counterpart will fray regional nerves even further,"" Storey said.
+
+Austin and Li will be in Singapore to attend the annual Shangri-la Dialogue that opens on Friday, an informal gathering of defense officials and analysts that also plays host to a string of side meetings.
+
+Both are expected to hold bilateral meetings with counterparts from around the region.
+
+Li, who security scholars say is a veteran of the People's Liberation Army modernisation effort, is a member of the Central Military Commission, China's top defense body that is commanded by President Xi Jinping.","China declines US request for a meeting between defense chiefs","https://www.reuters.com/world/china/china-rebuffs-us-request-meeting-between-defense-chiefs-wsj-2023-05-29/"
+"Thomson Reuters","https://www.reuters.com/world/europe/ukraine-air-defences-battle-fresh-wave-russian-attacks-2023-05-30/","2023 Reuters","2023-05-30T12:00:00.000Z","1","Ukrainian drones struck wealthy districts of Moscow on Tuesday, Russia said in what one politician called the most dangerous attack since World War Two, while Kyiv was also hit by air for the third time in 24 hours.","/pf/resources/images/reuters/favicon/favicon.ico?d=143","https://www.reuters.com/resizer/Ud8oHjqvDFyTYFmtjwBZH-F4AdM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3TPMHMX4UBJNREG5YQOFYS3J44.jpg","MTVID,MTPIX,AER,AERO,AGRI,COM,CWP,DIP,EU,GEN,GRA,INDG,INDG08,INDS,INDS08,INTAG,NATO,NEWS1,POL,SECUR,WAR,CEEU,EUROP,UA,RU,NASIA,ASXPAC,CISC,EMRG,ASIA,TOPNWS,EEU,ICC,SASIA,IN","en","/world/europe/drones-hit-several-buildings-moscow-mayor-2023-05-30/","struck wealthy districts of Moscow","/world/what-do-we-know-about-ukraines-drone-strike-moscow-2023-05-30/","attack","/world/europe/russia-launches-massive-new-air-assault-kyiv-officials-2023-05-30/","Kyiv","/world/europe/kremlin-drone-incident-what-do-we-know-2023-05-03/","over the Kremlin","/world/europe/russia-hits-military-facility-ukraine-new-wave-strikes-2023-05-29/","attacked Kyiv","/world/russias-lavrov-accuses-west-supporting-genocide-ukraine-2023-05-30/","Sergei Lavrov","https://www.thomsonreuters.com/en/about-us/trust-principles.html","The Thomson Reuters Trust Principles.",,,,,,,,,,,,,"reuters.com","https://www.reuters.com/world/europe/ukraine-air-defences-battle-fresh-wave-russian-attacks-2023-05-30/","Reuters","https://www.reuters.com/world/",,"Ukraine war comes to Moscow as drones strike both capitals","https://www.reuters.com/world/","MOSCOW/KYIV, May 30 (Reuters) - Ukrainian drones struck wealthy districts of Moscow on Tuesday, Russia said in what one politician called the most dangerous attack since World War Two, while Kyiv was also hit by air for the third time in 24 hours.
+
+Since Russia sent troops into its neighbour in February last year, the war has largely been fought inside Ukraine, though Moscow has reported some attacks on its territory and said one was an assassination attempt against President Vladimir Putin.
+
+Tuesday's early morning raid targeted some of Moscow's wealthiest areas including where Putin and the elite have residences. He was later in the Kremlin and received a briefing on the attack, a spokesman said.
+
+Russia's defence ministry said eight drones sent by Kyiv and targeting civilians were shot down or diverted, though Baza, a Telegram channel with links to the security services, said more than 25 were involved.
+
+Two people were injured while some apartment blocks were briefly evacuated, according to Moscow's mayor. Residents said they heard loud bangs followed by the smell of petrol. Some filmed a drone being shot down and a plume of smoke.
+
+Lawmaker Maxim Ivanov called it the most serious assault on Moscow since the Nazis, saying no Russian could now avoid ""the new reality"".
+
+Earlier this month, two drones exploded over the Kremlin in an attack Russia also blamed on Kyiv and said was aimed at Putin.
+
+""The sabotage and terrorist attacks of Ukraine will only increase,"" said another Russian lawmaker, Alexander Khinshtein, who called for a radical strengthening of defences. ""Do not underestimate the enemy!""
+
+Ukrainian presidential aide Mykhailo Podolyak denied Kyiv was directly involved in Tuesday's attacks, though he said ""we are pleased to watch"" and forecast more.
+
+At a messy stalemate for most of 2023 with Russian troops entrenched in some eastern Ukrainian regions, the war has killed tens of thousands, uprooted millions, reduced cities to ruins and caused havoc in the global economy.
+
+Kyiv said four people died around Ukraine in Russia's latest attacks on Tuesday, with 34 wounded including two children.
+
+""Russia is trying to break us and break our will,"" said Ukraine's Interior Minister Ihor Klymenko.
+
+In the capital, Ukraine said it shot down more than 20 Iranian-made Shahed drones. Eleven people were hurt.
+
+A 33-year-old woman died on her balcony when debris from a destroyed Russian projectile hit a Kyiv high-rise, officials said. Two upper floors were destroyed with people possibly still under rubble and flames engulfing the top.
+
+Russia has attacked Kyiv 17 times in May with drones or missiles, mostly at night, in an apparent attempt to sap morale. But Ukraine says U. S.-supplied Patriot anti-missile defences are achieving a 100% interception rate.
+
+Kyiv is promising a counter-offensive backed with Western weapons to try to drive Russian occupiers from territory seized in Moscow's self-styled ""special military operation"" to ""denazify"" its neighbour.
+
+Russian Prime Minister Mikhail Mishustin said almost 1.5 million people in Donetsk, Luhansk, Zaporizhzhia and Kherson regions have now received Russian passports.
+
+Russia claims to have annexed the four regions but its forces do not fully control any of them, and the annexations have not been recognised internationally.
+
+With Putin wanted by the International Criminal Court to face war crimes charges, there has been speculation over his possible attendance at an August summit in South Africa where authorities would theoretically be obliged to arrest him.
+
+Asked about that, Kremlin spokesman Dmitry Peskov said Russia would participate in the BRICS nations' meeting at ""the proper level"", with further details to be announced. The group comprises China, Russia, India, Brazil and South Africa.
+
+Ramping up the rhetoric, Russian Foreign Minister Sergei Lavrov said the West's backing for Kyiv's peace plan was tantamount to supporting genocide because it would ""destroy everything Russian"" in east Ukraine and Crimea.
+
+Russia has long accused the West of ignoring what it says is Ukrainian persecution of Russian language speakers.","Ukraine war comes to Moscow as drones strike both capitals","https://www.reuters.com/world/europe/ukraine-air-defences-battle-fresh-wave-russian-attacks-2023-05-30/"
+"By Nicoco Chan and Ellen Zhang","https://www.reuters.com/world/china/hawkers-back-chinas-streets-economic-recovery-teeters-2023-05-30/","2023 Reuters","2023-05-30T12:00:00.000Z","1","Wang Chunxiang pushes a cart around busy areas of Shanghai, playing cat and mouse with the authorities as she tries to sell pastries. The jobs she could get do not pay enough for her to make ends meet.","/pf/resources/images/reuters/favicon/favicon.ico?d=143","https://www.reuters.com/resizer/OVdj1Lr_96nc8JrmuMLqBkdoezc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DULOIHIQNFNSHHJHC6LOOEOJBU.jpg","EF:BUSINESS-WORLD-AT-WORK,ECI,ECO,GEN,JOB,MCE,MPLT,PLCY,SOCI,EASIA,HK,ASXPAC,EMRG,CN,ASIA,ECON","en","/markets/asia/chinas-imports-shrink-april-exports-grow-slower-pace-2023-05-09/","uneven","/world/china/chinas-gdp-recovery-likely-picked-up-q1-end-covid-curbs-2023-04-17/","lagging","https://www.thomsonreuters.com/en/about-us/trust-principles.html","The Thomson Reuters Trust Principles.",,,,,,,,,,,,,,,,,,,,,"reuters.com","https://www.reuters.com/world/china/hawkers-back-chinas-streets-economic-recovery-teeters-2023-05-30/","Reuters","https://www.reuters.com/world/",,"Hawkers back on China's streets as economic recovery teeters","https://www.reuters.com/world/","[1/5] Wang Chunxiang waits for customers as she sells steamed sweet rice cake on a wheel cart among other street vendors in Shanghai, China May 21, 2023. REUTERS/Nicoco Chan
+
+[1/5] Wang Chunxiang waits for customers as she sells steamed sweet rice cake on a wheel cart among other street vendors in Shanghai, China May 21, 2023. REUTERS/Nicoco Chan
+
+SHANGHAI/BEIJING, May 30 (Reuters) - Wang Chunxiang pushes a cart around busy areas of Shanghai, playing cat and mouse with the authorities as she tries to sell pastries. The jobs she could get do not pay enough for her to make ends meet.
+
+""Salaries are too low,"" said the 43-year-old, after serving a customer steamed sweet rice cakes from a wok.
+
+""At my age, without much knowledge, I could only earn 5,000 to 6,000 yuan ($868) per month as a cleaning lady. Shanghai rent is so expensive. Even low quality homes are 2,000-3,000 yuan,"" said Wang, who recently resumed hawking after a six-year break.
+
+She can earn about 10,000 yuan in a good month selling pastries for 15 yuan a box.
+
+As life in China returns to normal after the pandemic, hawkers are hitting the streets. They look to at least supplement their income amid an uneven economic recovery in which jobs and wage growth has been sluggish.
+
+For decades, street stalls and hawkers - common elsewhere in Asia - have been banned or tightly regulated in many Chinese cities, with authorities seeing them as unsightly.
+
+There are signs, however, that local governments are giving hawkers more leeway, a trend expected to continue.
+
+Zibo in eastern China became a media sensation this month after a rush of tourists visiting street food stalls forced authorities to issue warnings about overcrowding.
+
+The tech hub of Shenzhen, which banned hawking in 1999, will ease restrictions on street stalls from September. Shanghai is seeking public opinion on revising hawker regulations and in April said it had set up 74 spots for vendors.
+
+Lanzhou in the northwest said this month it would designate areas for street stalls as it sought to encourage innovation and entrepreneurship.
+
+""It's natural for some local governments to trial street vending as they are facing great pressure in stabilising local economies and the job market,"" said Bruce Pang, chief economist at Jones Lang Lasalle.
+
+Household income grew 3.8% year-on-year in the first quarter, lagging broader economic growth. The job market remains sluggish with youth unemployment at a record high.
+
+Economic pressure is forcing hawkers to risk fines or having their products confiscated.
+
+Wang Xuexue, 28, who sells flowers off her scooter in Shanghai, prefers to hawk her goods away from designated areas, which she says are out-of-the-way and charge fees.
+
+""Of course authorities try to catch us. Otherwise we wouldn't run so fast,"" said Wang Xuexue, who worked in a flower shop until recently.
+
+Even in Beijing, which President Xi Jinping said should remain above all a ""political centre"" without a street economy, hawkers were seen at tourist spots.
+
+Lu Wei, a pen seller, had his own store before the pandemic but cancelled the lease in 2020 as sales dropped and he could no longer afford rent. He now touts his 30-yuan pens along Beijing's Houhai lake, although business is slow.
+
+""People have no money in their pockets. Even if they do, they don't want to spend it,"" Lu said.","Hawkers back on China's streets as economic recovery teeters","https://www.reuters.com/world/china/hawkers-back-chinas-streets-economic-recovery-teeters-2023-05-30/"
+"By Fatos Bytyci","https://www.reuters.com/world/europe/nato-soldiers-guard-kosovo-serb-town-following-clashes-2023-05-30/","2023 Reuters","2023-05-30T12:00:00.000Z","1","Serbian protesters smashed two cars belonging to journalists in Kosovo's Leposavic town on Tuesday, a day after 30 NATO soldiers and 52 protesters were hurt in clashes, as EU and NATO officials urged a de-escalation of the violence.","/pf/resources/images/reuters/favicon/favicon.ico?d=143","https://www.reuters.com/resizer/rE0yt0tMEZ7x_r_QzL75xsT4mn0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LGXNMDSLLFMDZPKRDZ7VWCLUOQ.jpg","BRU,CWP,DIP,EU,GEN,INTAG,MPOP,NATO,POL,RACR,SOCI,UN1,VIO,VOTE,WEU,EUROP,SEEU,SRB,EMRG,KO,EEU,MTVID,MTPIX,TOPNWS,PXP,TOPCMB,WAR","en","/world/europe/kosovo-serbian-unrest-continues-north-2023-05-30/","Unrest in the region","/world/europe/serbia-orders-army-kosovo-border-after-protest-clashes-2023-05-26/","rebuke","/world/europe/key-facts-kosovo-independent-15-years-serbia-2023-05-30/","never accepted","/world/europe/nato-soldiers-deploy-around-kosovo-town-halls-standoff-with-serb-protesters-2023-05-29/","hurt","/world/europe/kosovo-serbian-unrest-continues-north-2023-05-30/","here","https://www.thomsonreuters.com/en/about-us/trust-principles.html","The Thomson Reuters Trust Principles.",,,,,,,,,,,,,,,"reuters.com","https://www.reuters.com/world/europe/nato-soldiers-guard-kosovo-serb-town-following-clashes-2023-05-30/","Reuters","https://www.reuters.com/world/",,"NATO soldiers on guard in Kosovo town, Serb protesters smash two cars","https://www.reuters.com/world/","LEPOSAVIC, Kosovo, May 30 (Reuters) - Serbian protesters smashed two cars belonging to journalists in Kosovo's Leposavic town on Tuesday, a day after 30 NATO soldiers and 52 protesters were hurt in clashes, as EU and NATO officials urged a de-escalation of the violence.
+
+Unrest in the region has intensified since ethnic Albanian mayors took office in northern Kosovo's Serb-majority area after April elections that the Serbs boycotted, a move that led the U. S. and its allies to rebuke Pristina on Friday.
+
+NATO said in a statement it would send additional forces to Kosovo to curb the violence, adding it ""has directed the deployment of the Operational Reserve Forces (ORF) for the Western Balkans.""
+
+Masked men smashed the windshield of a car with an Albanian licence plate marked as ""A2, CNN affiliate,"" a Reuters reporter who witnessed the incident said. A separate car belonging to another media outlet was smashed as well. No one was injured.
+
+EU foreign policy chief Josep Borrell urged Kosovo and Serbian leaders to find a way to de-escalate tensions through dialogue.
+
+""We have too much violence already in Europe today, we cannot afford another conflict,"" Borrell told a news briefing in Brussels.
+
+Northern Kosovo's majority Serbs have never accepted Kosovo's 2008 declaration of independence from Serbia, and consider Belgrade their capital more than two decades after the Kosovo Albanian uprising against repressive Serbian rule.
+
+Ethnic Albanians make up more than 90% of the population in Kosovo as a whole, but northern Serbs have long demanded the implementation of an EU-brokered 2013 deal for the creation of an association of autonomous municipalities in their area.
+
+Serbs refused to take part in local elections in April and ethnic Albanian candidates won the mayoralties in four Serb-majority municipalities with a 3.5% turnout.
+
+Russia, which has long had close ties with Serbia and shares its Slavic and Orthodox Christian traditions, called on Tuesday for ""decisive steps"" to quell the unrest in Kosovo.
+
+The Russian foreign ministry urged ""the West to finally silence its false propaganda and stop blaming incidents in Kosovo on Serbs driven to despair, who are peaceful, unarmed, trying to defend their legitimate rights and freedoms.""
+
+Several ethnic Serbs gathered in front of the municipal building in the town of Zvecan on Tuesday, where the situation was calm, with soldiers from the United States, Italy and Poland standing by in anti-riot gear.
+
+The Serbian protestors will disperse at 4 p.m. (1400 GMT), and return on Wednesday morning, the Serbian Tanjug news agency reported, citing Serbian officials in Zvecan.
+
+Kosovo authorities have blamed Serbian President Aleksandar Vucic for destabilising Kosovo. Vucic blames Kosovo authorities for causing problems by installing new mayors.
+
+""In a democracy there is no place for fascist violence—no appeal from ballot to bullet,"" Kosovo Prime Minister Albin Kurti said on Twitter late on Monday.
+
+After meeting ambassadors of the Quint group - comprising the United States, Italy, France, Germany and Britain - in Belgrade, Vucic said he had asked that Albanian mayors are removed from their offices in the north.
+
+Kosovo President Vjosa Osmani said criminal gangs, supported by Vucic, aimed to destabilize Kosovo and the entire region.
+
+On Monday, Serb protesters in Zvecan threw tear gas and stun grenades at NATO soldiers, leaving 30 NATO troops hurt, along with 52 Serbs.
+
+""Violent acts against citizens, against media, against law enforcement and KFOR (NATO's Kosovo) troops are absolutely unacceptable,"" EU's Borrell said.
+
+For a TIMELINE on Serbian unrest in north Kosovo, click here.","NATO soldiers on guard in Kosovo town, Serb protesters smash two cars","https://www.reuters.com/world/europe/nato-soldiers-guard-kosovo-serb-town-following-clashes-2023-05-30/"
+"Thomson Reuters","https://www.reuters.com/world/europe/drones-hit-several-buildings-moscow-mayor-2023-05-30/","2023 Reuters","2023-05-30T12:00:00.000Z","1","President Vladimir Putin said on Tuesday that Ukraine's biggest ever drone strike on Moscow was an attempt to scare and provoke Russia, and air defences around the capital would be strengthened.","/pf/resources/images/reuters/favicon/favicon.ico?d=143","https://www.reuters.com/resizer/KyAkVXdBvSl6XRjdhFoKS2IF4mM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/F7ILQRGJOVPKVN47B2DZMRQE6Y.jpg","REPI:GRID-INFRASTRUCTURE,CWP,DEF,DIP,EU,GEN,INTAG,NATO,NEWS1,NUCL,POL,SECUR,WAR,CEEU,AMERS,US,EUROP,UA,RU,NASIA,NAMER,ASXPAC,CISC,EMRG,ASIA,TOPNWS,TOPCMB,EEU,MTVID,MTPIX,AER,AERO,CCOS,COM,CYCS,CYCS08,DRONEM,ENR,INDG,INDG08,INDS,INDS08,MDIA,MDIA08,NRG,PPL,PUB,TMT,TNPT","en","/world/europe/drone-war-comes-russia-muscovites-shrug-their-shoulders-carry-2023-05-30/","Muscovites carried on with their lives","https://www.thomsonreuters.com/en/about-us/trust-principles.html","The Thomson Reuters Trust Principles.",,,,,,,,,,,,,,,,,,,,,,,"reuters.com","https://www.reuters.com/world/europe/drones-hit-several-buildings-moscow-mayor-2023-05-30/","Reuters","https://www.reuters.com/world/",,"Putin says Ukraine drone strikes on Moscow aim to scare and provoke Russia","https://www.reuters.com/world/","MOSCOW, May 30 (Reuters) - President Vladimir Putin said on Tuesday that Ukraine's biggest ever drone strike on Moscow was an attempt to scare and provoke Russia, and air defences around the capital would be strengthened.
+
+Russia said eight drones targeted civilian areas of Moscow and the Moscow region - with a population of over 21 million - in the early hours of Tuesday but were either shot down or diverted with special electronic jammers.
+
+Putin cast the assault, which brought the 15-month war in Ukraine to the heart of Russia, as a terrorist response that came after Russia struck at Ukraine's military intelligence headquarters several days ago.
+
+Ukraine, Putin said, had chosen the path of attempting ""to intimidate Russia, Russian citizens and attacks on residential buildings"".
+
+""This is clearly a sign of terrorist activity,"" he said.
+
+Air defences around Moscow - which as the capital of the world's biggest nuclear power is already protected by an extensive early warning system - would be strengthened, he said.
+
+A Ukrainian presidential aide denied Kyiv was directly involved in the Moscow attack, but said Ukraine was enjoying watching events and forecast more to come.
+
+""Of course we are pleased to watch and predict an increase in the number of attacks. But of course we have nothing directly to do with this,"" Ukrainian presidential adviser Mykhailo Podolyak said.
+
+There is little sign of peace in one of the deadliest wars in Europe since World War Two, and Moscow has repeatedly warned that the West is escalating the war by supplying Kyiv with so much weaponry.
+
+Drone attacks deep inside Russia have intensified in recent weeks with strikes on oil pipelines and even the Kremlin earlier this month. Ukraine denied the Kremlin attack but The New York Times reported that U. S. intelligence believes Kyiv was responsible.
+
+Drone debris hit some of Moscow's most prestigious areas including Leninsky Prospekt, a grand avenue crafted under Josef Stalin, and the area of western Moscow where the Russian elite - including Putin - have their residences.
+
+Residents in south-western Moscow said they heard loud bangs at around 0200 to 0300 GMT, followed by the smell of petrol. Some filmed a drone being shot down and a plume of smoke rising over the Moscow skyline.
+
+Moscow Mayor Sergei Sobyanin said two people were injured, one of whom was hospitalised, in the early morning attack. Moscow's airports remained open. No deaths were reported.
+
+So far Putin has kept the war in Ukraine far from Moscow, where life has continued relatively normally despite the biggest rupture in Russia's ties with the West since the 1962 Cuban Missile Crisis.
+
+Russia began attacking the Ukrainian capital with swarms of cheaply produced loitering munitions often known as “kamikaze drones” last October and uses them extensively during its regular air strikes across Ukraine.
+
+Prosecutors said incidents occurred in the Odintsovsky District of western Moscow region - where Putin has his Novo-Ogaryovo state residence. The area, the most expensive in Russia, is the home to the country's elite.
+
+Russian state television gave the attacks calm coverage. Many Muscovites carried on with their lives with the fatalism for which they are famous.
+
+On a warm spring day in the city centre, residents could be seen taking selfies in front of the Bolshoi Theatre while others relaxed in cafes and shopped in the well-stocked luxury stores of Moscow.
+
+Putin has repeatedly cast the conflict in Ukraine as a struggle with what he says is an arrogant and aggressive West which is risking a global war by supporting Ukraine.
+
+Thus far, the war has been described by the Kremlin as a ""special military operation"". The United States has repeatedly said it does not want a war with Russia and has said Ukraine should not use Western weapons to attack inside Russia.
+
+Russian lawmakers cautioned that there were likely to be more attacks on Moscow, which many said would make it necessary to give the military and security agencies even greater powers.
+
+""The sabotage and terrorist attacks of Ukraine will only increase,"" said Alexander Khinshtein, from the ruling United Russia bloc.
+
+""It is necessary to radically strengthen defence and security measures, especially in terms of countering drones. This includes finally passing the necessary laws.""","Putin says Ukraine drone strikes on Moscow aim to scare and provoke Russia","https://www.reuters.com/world/europe/drones-hit-several-buildings-moscow-mayor-2023-05-30/"
+"Reuters","https://www.reuters.com/world/russias-lavrov-accuses-west-supporting-genocide-ukraine-2023-05-30/","2023 Reuters","2023-05-30T12:00:00.000Z","1","Russian Foreign Minister Sergei Lavrov said on Tuesday that the West was ""supporting genocide"" in Ukraine through its backing for President Volodymyr Zelenskiy's peace plan, which he claimed would ""destroy everything Russian"" in east Ukraine and Crimea.","/pf/resources/images/reuters/favicon/favicon.ico?d=143","https://www.reuters.com/resizer/30AQF61_CzZ-S0Xq16mrI7nhUh0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WKK743MP4VM57BSA2DCGATD65E.jpg","CWP,DIP,GEN,NEWS1,POL,SECUR,WAR,CEEU,EUROP,UA,RU,NASIA,ASXPAC,CISC,EMRG,ASIA,EEU","en","/world/europe/drones-hit-several-buildings-moscow-mayor-2023-05-30/","launching","/world/europe/russia-puts-us-senator-graham-wanted-list-russian-media-2023-05-29/","edited video","https://www.thomsonreuters.com/en/about-us/trust-principles.html","The Thomson Reuters Trust Principles.",,,,,,,,,,,,,,,,,,,,,"reuters.com","https://www.reuters.com/world/russias-lavrov-accuses-west-supporting-genocide-ukraine-2023-05-30/","Reuters","https://www.reuters.com/world/",,"Russia's Lavrov accuses West of 'supporting genocide' in Ukraine","https://www.reuters.com/world/","May 30 (Reuters) - Russian Foreign Minister Sergei Lavrov said on Tuesday that the West was ""supporting genocide"" in Ukraine through its backing for President Volodymyr Zelenskiy's peace plan, which he claimed would ""destroy everything Russian"" in east Ukraine and Crimea.
+
+Lavrov, speaking during a trip to Africa, did not offer evidence to support his claim. Russia has long accused the West of ignoring what it says is Ukrainian persecution of Russian language speakers in the eastern Donbas region and elsewhere.
+
+""The conclusion is very simple - the West directly supports genocide,"" Lavrov said during a press conference with his Burundian counterpart.
+
+Zelenskiy's peace plan envisages the withdrawal of Russian forces from all Ukrainian territory, including the Crimea peninsula, which Moscow forcibly annexed in 2014.
+
+Speaking on the day when Russia accused Ukraine of launching its biggest ever drone attack on Moscow, Lavrov said the West was directly helping Kyiv to carry out such ""terrorist"" strikes by providing it with weapons and military equipment.
+
+""The statement of the West that the weapons it is supplying (to Ukraine) must not be used against the territory of the Russian Federation is just another lie,"" he said.
+
+Lavrov also took aim at comments by U. S. Senator Lindsey Graham, saying they could be understood as encouraging the killing of Russians.
+
+In an edited video released by Zelenskiy's office last Friday, Graham was shown saying during a meeting with the Ukrainian president in Kyiv that ""the Russians are dying"" and then saying U. S. support was the ""best money we've ever spent"".
+
+After Russia criticised the remarks, Ukraine released a full video of the meeting on Sunday which showed the two remarks were not directly linked.
+
+Graham said he had simply praised the spirit of Ukrainians in resisting a Russian invasion with assistance provided by Washington.","Russia's Lavrov accuses West of 'supporting genocide' in Ukraine","https://www.reuters.com/world/russias-lavrov-accuses-west-supporting-genocide-ukraine-2023-05-30/"
+"Reuters","https://www.reuters.com/world/india/indian-athletes-toss-medals-into-ganges-they-demand-officials-arrest-2023-05-30/","2023 Reuters","2023-05-30T12:00:00.000Z","1","India's top wrestlers have threatened to hurl their medals into the river Ganges on Tuesday as they demand the arrest of the head of the Wrestling Federation of India over sexual harassment allegations.","/pf/resources/images/reuters/favicon/favicon.ico?d=143","https://www.reuters.com/resizer/b4cXz3wmvWJlo2xfved70Hcy9XY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CSGSCQEEORNNLFBEODVNMJ4KNM.jpg","CLJ,CRIM,CWP,GEN,SCRIM,SPO,VIO,WRE,WRES,WSPO,SASIA,IN,ASXPAC,EMRG,ASIA","en","/sports/top-indian-wrestlers-detained-protest-against-federation-chief-intensifies-2023-05-28/","detained","https://www.thomsonreuters.com/en/about-us/trust-principles.html","The Thomson Reuters Trust Principles.",,,,,,,,,,,,,,,,,,,,,,,"reuters.com","https://www.reuters.com/world/india/indian-athletes-toss-medals-into-ganges-they-demand-officials-arrest-2023-05-30/","Reuters","https://www.reuters.com/world/",,"Indian athletes to toss medals into Ganges as they demand official's arrest","https://www.reuters.com/world/","NEW DELHI, May 30 (Reuters) - India's top wrestlers have threatened to hurl their medals into the river Ganges on Tuesday as they demand the arrest of the head of the Wrestling Federation of India over sexual harassment allegations.
+
+The wrestlers had been camping in New Delhi since April 23 demanding action against Wrestling Federation of India (WFI) President Brij Bhushan Sharan Singh, who has denied any wrongdoing.
+
+Singh, a member of parliament for Prime Minister Narendra Modi's ruling Bharatiya Janata Party, could not be reached for comment on Tuesday.
+
+Several of the protesting wrestlers were briefly detained by Delhi Police on Sunday and their camp site was cleared after they tried to move towards India's new parliament building.
+
+Singh has been stripped of his administrative powers but the wrestlers are seeking his arrest over allegations of sexual harassment against female wrestlers.
+
+Wrestlers including Olympic medallists Sakshi Malik and Bajrang Punia issued a joint statement on Tuesday spelling out their next step in the north Indian town of Haridwar.
+
+""For us, our medals are sacred, and so is the river Ganges,"" they said in a statement in Hindi.
+
+""This holy river is the perfect custodian of our medals, not the system that shields the offender.""
+
+The athletes said that after throwing their medals into the river they would return to New Delhi to begin a hunger strike at the India Gate war memorial.","Indian athletes to toss medals into Ganges as they demand official's arrest","https://www.reuters.com/world/india/indian-athletes-toss-medals-into-ganges-they-demand-officials-arrest-2023-05-30/"
+"Thomson Reuters","https://www.reuters.com/technology/top-ai-ceos-experts-raise-risk-extinction-ai-2023-05-30/","2023 Reuters","2023-05-30T12:00:00.000Z","1","Top artificial intelligence executives including OpenAI CEO Sam Altman on Tuesday joined experts and professors in raising the ""risk of extinction from AI"", which they urged policymakers to equate at par with risks posed by pandemics and nuclear war.","/pf/resources/images/reuters/favicon/favicon.ico?d=143","https://www.reuters.com/resizer/FKMkxEjnxRu6MvmIC_pItDuBg3s=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LJBC7P3YLNPDXMJZPYEMFJF7KQ.jpg","EF:TECHNOLOGY-DISRUPTED,CMPNY,ENV,EU,GEN,INTAG,ITSE,ITSE08,MLAISV,NETSV,POL,PUBL,SOCMED,SOFW,SOFW1,SRCHEN,SWIT,TECH,TECH08,TMT,WEU,EASIA,AMERS,SCANDV,US,EUROP,SE,NORD,NAMER,ASXPAC,EMRG,CN,ASIA,FIN","en","https://www.safe.ai/statement-on-ai-risk","published","https://www.reuters.com/companies/MSFT.O","(MSFT.O)","https://www.reuters.com/companies/GOOGL.O","(GOOGL.O)","https://www.safe.ai/press-release","statement","https://www.reuters.com/companies/META.O","(META.O)","/technology/eu-us-weigh-china-ai-trade-strains-high-level-sweden-talks-2023-05-30/","regulating AI","/technology/musk-experts-urge-pause-training-ai-systems-that-can-outperform-gpt-4-2023-03-29/","first ones","/technology/white-house-takes-new-steps-study-ai-risks-determine-impact-workers-2023-05-23/","sparked fears","/technology/ai-pioneer-says-its-threat-world-may-be-more-urgent-than-climate-change-2023-05-05/","told Reuters","/technology/openai-has-no-plans-leave-europe-ceo-2023-05-26/","reversed","/technology/openai-ceos-threat-quit-eu-draws-lawmaker-backlash-2023-05-25/","criticism","/technology/eus-von-der-leyen-meet-openai-ceo-altman-thursday-2023-05-30/","meet","https://www.thomsonreuters.com/en/about-us/trust-principles.html","The Thomson Reuters Trust Principles.","reuters.com","https://www.reuters.com/technology/top-ai-ceos-experts-raise-risk-extinction-ai-2023-05-30/","Reuters","https://www.reuters.com/world/",,"Top AI CEOs, experts raise 'risk of extinction' from AI","https://www.reuters.com/world/","STOCKHOLM, May 30 (Reuters) - Top artificial intelligence executives including OpenAI CEO Sam Altman on Tuesday joined experts and professors in raising the ""risk of extinction from AI"", which they urged policymakers to equate at par with risks posed by pandemics and nuclear war.
+
+""Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war,"" more than 350 signatories wrote in a letter published by the nonprofit Center for AI Safety (CAIS).
+
+As well as Altman, they included the CEOs of AI firms DeepMind and Anthropic, and executives from Microsoft (MSFT. O) and Google (GOOGL.O).
+
+Also among them were Geoffrey Hinton and Yoshua Bengio - two of the three so-called ""godfathers of AI"" who received the 2018 Turing Award for their work on deep learning - and professors from institutions ranging from Harvard to China's Tsinghua University.
+
+A statement from CAIS singled out Meta (META. O), where the third godfather of AI, Yann LeCun, works, for not signing the letter.
+
+The letter coincided with the U. S.-EU Trade and Technology Council meeting in Sweden where politicians are expected to talk about regulating AI.
+
+Elon Musk and a group of AI experts and industry executives were the first ones to cite potential risks to society in April.
+
+Recent developments in AI have created tools supporters say can be used in applications from medical diagnostics to writing legal briefs, but this has sparked fears the technology could lead to privacy violations, power misinformation campaigns, and lead to issues with ""smart machines"" thinking for themselves.
+
+AI pioneer Hinton earlier told Reuters that AI could pose a ""more urgent"" threat to humanity than climate change.
+
+Last week OpenAI CEO Sam Altman referred to EU AI - the first efforts to create a regulation for AI - as over-regulation and threatened to leave Europe. He reversed his stance within days after criticism from politicians.","Top AI CEOs, experts raise 'risk of extinction' from AI","https://www.reuters.com/technology/top-ai-ceos-experts-raise-risk-extinction-ai-2023-05-30/"
+"By Philip Pullella","https://www.reuters.com/world/europe/beyond-sistine-chapel-vatican-museums-says-we-are-much-more-2023-05-30/","2023 Reuters","2023-05-30T12:00:00.000Z","1","Barbara Jatta, the first woman to head the Vatican Museums, wants visitors to avoid being suffocated by the crowds and take in the lesser-known - but spectacular - attractions she helps to oversee.","/pf/resources/images/reuters/favicon/favicon.ico?d=143","https://www.reuters.com/resizer/Vl2RTuAWxP84iUU7B5FRycPgjh0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/W2A3G2WTDJNWFKIHKLXVVQTS4Q.jpg","MTPIX,ART,CCOS,CHRI,COVID,CYCS,CYCS08,ENT,ENTS,GEN,HEA,HUMDIS,INFDIS,LIF,MSEUM,PXP,REL,RELX,SOCI,WEU,IT,EUROP,EZC,VA,TOPNWS","en","https://www.thomsonreuters.com/en/about-us/trust-principles.html","The Thomson Reuters Trust Principles.",,,,,,,,,,,,,,,,,,,,,,,,,"reuters.com","https://www.reuters.com/world/europe/beyond-sistine-chapel-vatican-museums-says-we-are-much-more-2023-05-30/","Reuters","https://www.reuters.com/world/",,"Beyond the Sistine Chapel, Vatican Museums says 'we are much more'","https://www.reuters.com/world/","[1/4] Barbara Jatta, director of the Vatican Museums, speaks to a reporter during the opening of a new exhibit of ceramic jars and other utensils used in a 17th century pharmacy that was once at the Benedictine monastery, at the Vatican, May 25, 2023. Jatta wants visitors to slow down and enjoy such... Read more
+
+[1/4] Barbara Jatta, director of the Vatican Museums, speaks to a reporter during the opening of a new exhibit of ceramic jars and other utensils used in a 17th century pharmacy that was once at the Benedictine monastery, at the Vatican, May 25, 2023. Jatta wants visitors to slow down and enjoy such... Read more
+
+VATICAN CITY, May 30 (Reuters) - Barbara Jatta, the first woman to head the Vatican Museums, wants visitors to avoid being suffocated by the crowds and take in the lesser-known - but spectacular - attractions she helps to oversee.
+
+The Vatican Museums, a UNESCO World Heritage Site that closed or limited openings during the COVID-19 pandemic, have almost returned to their pre-pandemic level of about six million visitors a year.
+
+Many, particularly day trippers on fast-paced package tours of Rome, head straight for the Sistine Chapel, bypassing the museums' other wonders.
+
+""Not everyone in the Sistine Chapel. Please! We are much more,"" she told Reuters at the opening of an exhibition of ceramics within metres of Michelangelo's frescoed masterpiece.
+
+""We have so many things that speak of history, it is important to get to know them too,"" added Jatta, 60.
+
+They include a 17th-century pharmacy and apothecary that was run by Benedictine nuns in the Monastery of St. Cecilia in Rome's Trastevere district.
+
+Open to the public since May 25, the pharmacy that served the public until 1936 has been reassembled with contents dating from the 17th and 18th centuries.
+
+Cabinet shelves are filled with dozens of finely decorated blue-and-white ceramic jars that once held medicinal plants and herbs used to treat anything from insect bites to urinary infections.
+
+The exhibition also includes tools for cutting and pressing the plants and extracting their essential essences. The nuns fashioned a large stone mortar from the capital of an ancient Roman column.
+
+""This is an incredible patrimony of history, art and medicine,"" said Luca Pesante, one of the curators of the exhibit, which also includes mediaeval floor tiles and decorative plates, some made from designs by Raphael.
+
+Jatta, appointed by Pope Francis in 2016, said she and her staff has set as a priority to give visitors ""the most marvellous visit possible"" and that they should not be suffocated by too many people.
+
+She added that the museums, which close at 6 p.m. on most days, may extend opening hours. Already, they stay open later on Fridays and Saturdays.
+
+Nearly all tickets are booked online and are often sold out weeks in advance.
+
+The need for extended opening hours may increase during the 2025 Holy Year, when millions more people than usual are expected to travel to Rome to participate in religious pilgrimages, she said.","Beyond the Sistine Chapel, Vatican Museums says 'we are much more'","https://www.reuters.com/world/europe/beyond-sistine-chapel-vatican-museums-says-we-are-much-more-2023-05-30/"
+"By Sabine Siebold","https://www.reuters.com/world/nato-seeks-narrow-differences-over-ukraine-membership-bid-2023-05-30/","2023 Reuters","2023-05-30T12:00:00.000Z","1","NATO foreign ministers will seek to narrow divisions over Ukraine's membership bid at a meeting in Oslo this week, with allies at odds over calls to grant Kyiv a road map to accession at their July summit.","/pf/resources/images/reuters/favicon/favicon.ico?d=143","https://www.reuters.com/resizer/jDbSGpiwHJrrQ6NSF7FqJXDachY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LBH4PSKXFRPPFPDSJEGQXFFOBM.jpg","CWP,DIP,EU,GEN,INTAG,NATO,POL,WAR,CEEU,WEU,AMERS,SWASIA,SCANDV,BALT,US,EUROP,SE,NO,NORD,MEAST,TR,UA,RU,NASIA,EZC,SEEU,NAMER,ASXPAC,CISC,DE,EMRG,ASIA,LT,EEU,TOPNWS,TOPCMB","en","/world/europe/ukraine-joining-nato-midst-war-not-agenda-stoltenberg-2023-05-24/","not be able","/world/nato-struggles-shadows-find-new-leader-2023-05-26/","new NATO chief","https://www.thomsonreuters.com/en/about-us/trust-principles.html","The Thomson Reuters Trust Principles.",,,,,,,,,,,,,,,,,,,,,"reuters.com","https://www.reuters.com/world/nato-seeks-narrow-differences-over-ukraine-membership-bid-2023-05-30/","Reuters","https://www.reuters.com/world/",,"NATO seeks to narrow differences over Ukraine membership bid","https://www.reuters.com/world/","BRUSSELS, May 30 (Reuters) - NATO foreign ministers will seek to narrow divisions over Ukraine's membership bid at a meeting in Oslo this week, with allies at odds over calls to grant Kyiv a road map to accession at their July summit.
+
+NATO has not acceded to Ukraine's request for fast-track membership as Western governments such as the U. S. and Germany are wary of moves that they fear could take the alliance closer to entering an active war with Russia.
+
+However, both Kyiv and some of its closest allies in eastern Europe have been pushing for NATO to at least take concrete steps to bring Ukraine closer to membership at the alliance's summit in Vilnius, Lithuania, on July 11-12.
+
+""It would be very sad if in any way anyone could read the outcome of the Vilnius summit as a victory of Russia in precluding Ukraine to join NATO one day,"" Lithuanian Prime Minister Ingrida Simonyte said on Friday.
+
+Last week, NATO Secretary-General Jens Stoltenberg made it clear that Ukraine will not be able to join the alliance as long as the war against Russia continues.
+
+""To become a member in the midst of a war is not on the agenda,"" he said. ""The issue is what happens when the war ends.""
+
+NATO agreed at its 2008 summit in Bucharest that Ukraine will join eventually.
+
+However, leaders have since stopped short of steps such as giving Kyiv a membership action plan that would lay out a timetable for bringing the country closer to NATO.
+
+On the sidelines of their Oslo meeting on Wednesday and Thursday, foreign ministers are also expected to touch on the search for a new NATO chief, with Stoltenberg due to step down in September.
+
+Meanwhile, President Tayyip Erdogan's election victory in Turkey has brought fresh momentum to efforts to break a deadlock over the ratification of Sweden's NATO membership, held up by objections from Turkey and Hungary.
+
+Any progress in Oslo is unlikely, however, as Turkish Foreign Minister Mevlut Cavusoglu will not be there, Sweden said, although talks between him and Sweden's Tobias Billstrom will nevertheless take place ""soon"".","NATO seeks to narrow differences over Ukraine membership bid","https://www.reuters.com/world/nato-seeks-narrow-differences-over-ukraine-membership-bid-2023-05-30/"
+"Reuters","https://www.reuters.com/world/kremlin-says-russia-will-take-part-brics-summit-proper-level-2023-05-30/","2023 Reuters","2023-05-30T12:00:00.000Z","1","The Kremlin said on Tuesday that Russia would take part at the ""proper level"" in a planned summit in South Africa of the BRICS nations, responding to a question on whether President Vladimir Putin would attend the gathering.","/pf/resources/images/reuters/favicon/favicon.ico?d=143","https://www.reuters.com/resizer/cuIixhO-4wJ6Ch2NPlxOMy4AzLI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YJCCOWNEDJKLXKWTMOX7Z25ZJE.jpg","AIR,AIRL,AIRL1,AIRS08,CLJ,CMPNY,CWP,DIP,GEN,ICC,INDS,INDS08,INTAG,JUDIC,NEWS1,POL,PSSNGR,PUBL,SECUR,TPT,TRAN,WAR,ZA,CEEU,AFR,EUROP,SAFR,UA,RU,NASIA,ASXPAC,CISC,EMRG,ASIA,LEGAL,REUTERS-LEGAL,TOPNWS,TOPCMB,SASIA,EASIA,AMERS,IN,BR,LATAM,CN,SAMER,EEU","en","/world/us-says-video-shows-russian-jet-intercepted-spy-drone-near-ukraine-2023-03-16/","issued","https://www.thomsonreuters.com/en/about-us/trust-principles.html","The Thomson Reuters Trust Principles.",,,,,,,,,,,,,,,,,,,,,,,"reuters.com","https://www.reuters.com/world/kremlin-says-russia-will-take-part-brics-summit-proper-level-2023-05-30/","Reuters","https://www.reuters.com/world/",,"Kremlin says Russia will take part in BRICS summit at 'proper level'","https://www.reuters.com/world/","MOSCOW, May 30 (Reuters) - The Kremlin said on Tuesday that Russia would take part at the ""proper level"" in a planned summit in South Africa of the BRICS nations, responding to a question on whether President Vladimir Putin would attend the gathering.
+
+South Africa, a member of the International Criminal Court (ICC), would theoretically be required to arrest Putin under a warrant issued by the court for his arrest for alleged war crimes.
+
+However it has invited Putin to the Aug. 22-24 summit of the BRICS grouping of emerging economies, which comprises Brazil, Russia, India, China and South Africa.
+
+""Russia attaches enormous importance to the development of this format of integration. And Russia will take part in this summit at the proper level,"" Kremlin spokesman Dmitry Peskov told a regular news briefing.
+
+Pressed on the possibility of the warrant being implemented by South Africa, Peskov said: ""Of course we count as a bare minimum on partner countries in such an important format not being guided by such illegal decisions.""
+
+Peskov said further details on the issue would be announced later, without elaborating.
+
+The ICC issued an arrest warrant in March for Putin, accusing him of the war crime of forcibly deporting children from Russian-occupied territory in Ukraine. Moscow denies committing war crimes including forced deportations of children, and says the ICC has no authority as Russia is not a member.
+
+Putin, only the third serving president to have been issued an arrest warrant by the ICC, is unlikely to end up in court any time soon. But the warrant means that he could be arrested and sent to The Hague if he travels to any ICC member states.","Kremlin says Russia will take part in BRICS summit at 'proper level'","https://www.reuters.com/world/kremlin-says-russia-will-take-part-brics-summit-proper-level-2023-05-30/"
+"Reuters","https://www.reuters.com/world/turkey-wants-action-nato-hopeful-sweden-over-flag-incident-2023-05-30/","2023 Reuters","2023-05-30T12:00:00.000Z","1","Turkey called on NATO hopeful Sweden on Tuesday to prosecute those responsible for projecting the flag of an outlawed group onto the parliament building in Stockholm, on the day of Turkish elections that extended President Tayyip Erdogan's rule.","/pf/resources/images/reuters/favicon/favicon.ico?d=143","https://www.reuters.com/resizer/iv8iMhoPqR-01Z957JYgn_OsCmA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UMQ3QNRGOVMYNNYATBQRG3KILQ.jpg","CWP,DEF,DIP,GEN,INTAG,NATO,NEWS1,POL,PXP,SECUR,VOTE,WAR,WEU,AMERS,SWASIA,SCANDV,US,EUROP,SE,DK,NO,NORD,MEAST,TR,EZC,SEEU,NAMER,ASXPAC,FI,EMRG,ASIA","en","https://www.thomsonreuters.com/en/about-us/trust-principles.html","The Thomson Reuters Trust Principles.",,,,,,,,,,,,,,,,,,,,,,,,,"reuters.com","https://www.reuters.com/world/turkey-wants-action-nato-hopeful-sweden-over-flag-incident-2023-05-30/","Reuters","https://www.reuters.com/world/",,"Turkey wants action from NATO hopeful Sweden over flag incident","https://www.reuters.com/world/","ANKARA, May 30 (Reuters) - Turkey called on NATO hopeful Sweden on Tuesday to prosecute those responsible for projecting the flag of an outlawed group onto the parliament building in Stockholm, on the day of Turkish elections that extended President Tayyip Erdogan's rule.
+
+A Swedish parliament spokesperson said a number of people projected messages onto the building in Sweden's capital late on Sunday, adding it had no documentation about what was projected.
+
+The warning could raise the stakes ahead of a mid-July NATO summit at which some alliance members are urging Turkey to back Sweden's membership bid, after a year of delays over concerns that Stockholm must do more to take on militant groups.
+
+Footage first shared on Twitter by the so-called Swedish Solidarity Committee for Rojava - a reference to Kurdish regions of Syria - projected a flag of the Kurdistan Workers' Party (PKK) on the parliament building.
+
+Another image shared by the account includes text reading ""Freedom for Ocalan,"" referring to the PKK's jailed leader Abdullah Ocalan, which was also projected onto the building.
+
+""We expect the Swedish authorities to investigate this incident, hold accountable those responsible, and stop self-identified members of PKK — which the EU recognises as a terrorist entity — from operating on Swedish soil,"" Fahrettin Altun, the Turkish presidency's communications director, said on Twitter.
+
+The parliament spokesperson said: ""During the night towards Monday, a number of people stood on a quay on the other side of the water seen from the Riksdag (Swedish parliament) building and projected messages onto the Riksdag building.""
+
+""The persons left when the Riksdag's security guards arrived,"" the spokesperson added in an email.
+
+The incident took place after Erdogan won a mandate in runoff elections to carry on his muscular foreign policy in which Turkey objected to both Sweden's and Finland's bids to join NATO last year in the face of Russia's invasion of Ukraine.
+
+Turkey ratified Finland's bid in March but still objects to Sweden, saying Stockholm harbours members of militant groups it considers to be terrorists and has not fulfilled its part of last year's deal meant to assuage Ankara's security concerns.
+
+Bids for membership must be approved by all NATO members.
+
+Altun said he hoped Sweden would properly enforce a new anti-terror law taking effect on 1 June, and prevent PKK members from demonstrating at a protest against Sweden's NATO membership called by the solidarity committee for June 4.
+
+Ahmet Berat Conkar, former chair of parliament's Foreign Affairs Committee and head of Turkey's delegation at the NATO Parliamentary Assembly, said that Turkey expects more engagement from Sweden on how their terrorism laws are being implemented.
+
+""These factors will be important in our parliament's decision on Swedish membership. But on a positive note, as you see in Finland's case, Turkey is open to NATO enlargement and we will apply the same standard to Sweden as well,"" he said in an interview.","Turkey wants action from NATO hopeful Sweden over flag incident","https://www.reuters.com/world/turkey-wants-action-nato-hopeful-sweden-over-flag-incident-2023-05-30/"
+"Thomson Reuters","https://www.reuters.com/world/americas/south-american-presidents-led-by-lula-seek-new-shared-agenda-2023-05-30/","2023 Reuters","2023-05-30T12:00:00.000Z","1","South American presidents are gathering in Brasilia on Tuesday for their first summit in almost a decade at the invitation of Brazil's leftist leader Luiz Inacio Lula da Silva, who aims to regain his country's active role in regional affairs.","/pf/resources/images/reuters/favicon/favicon.ico?d=143","https://www.reuters.com/resizer/FVCuUvZEoMYFN89fWZMj2l5UWJ4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PHLOU4ZADBPSFMXZUVTOYII4OU.jpg","RSBI:CLIMATE-CHANGE,MTVID,MTPIX,CLC,DIP,ENV,GEN,POL,VOTE,WRM,AMERS,UY,CL,SR,EC,VE,GY,BR,AR,EMRG,LATAM,PY,WINDIE,CO,SAMER","en","/world/americas/venezuelas-maduro-meets-lula-first-visit-brazil-since-2015-2023-05-29/","he and Lula","https://www.thomsonreuters.com/en/about-us/trust-principles.html","The Thomson Reuters Trust Principles.",,,,,,,,,,,,,,,,,,,,,,,"reuters.com","https://www.reuters.com/world/americas/south-american-presidents-led-by-lula-seek-new-shared-agenda-2023-05-30/","Reuters","https://www.reuters.com/world/",,"South American presidents led by Lula seek new shared agenda","https://www.reuters.com/world/","[1/2] Brazil's President Luiz Inacio Lula da Silva meets with Venezuela's President Nicolas Maduro (not pictured) before a summit with presidents of South America to discuss the re-launching of the regional cooperation bloc UNASUR, in Brasilia, Brazil, May 29, 2023. REUTERS/Ueslei Marcelino
+
+[1/2] Brazil's President Luiz Inacio Lula da Silva meets with Venezuela's President Nicolas Maduro (not pictured) before a summit with presidents of South America to discuss the re-launching of the regional cooperation bloc UNASUR, in Brasilia, Brazil, May 29, 2023. REUTERS/Ueslei Marcelino
+
+BRASILIA, May 30 (Reuters) - South American presidents are gathering in Brasilia on Tuesday for their first summit in almost a decade at the invitation of Brazil's leftist leader Luiz Inacio Lula da Silva, who aims to regain his country's active role in regional affairs.
+
+Ideological divisions undermined a previous attempt at regional cooperation called Unasur created by leftist presidents in 2008 that floundered when several countries elected right-wing governments, creating diplomatic fissures on the continent.
+
+The invited presidents from all 12 of the continent's sovereign states, except Peru, will debate ways to coordinate on fighting climate change and high inflation in a region where poverty and hunger are on the rise.
+
+""We won't decide anything at tomorrow's meeting, it is just about discussing possibilities,"" Lula told a news conference on Monday with Venezuelan President Nicolas Maduro, on his first visit to Brazil in eight years.
+
+Lula said the leaders did not have to recreate a new Unasur but could come up with a different sort of organization.
+
+""The main idea is that we need a bloc to work together on economic, investment and environmental issues. We need to learn to talk to each other,"" he told reporters.
+
+Maduro is hoping the South American countries will unite in calling on the United States to lift its sanctions against Venezuela, which he and Lula assailed at their news conference.
+
+Lula's return to office this year has brought a restoration of diplomatic ties between Brasilia and Caracas that had broken down under far-right former President Jair Bolsonaro, who banned Maduro from entering Brazil.
+
+Brazilian officials organizing the summit said it was designed to keep political divisions from hindering cooperation.
+
+""We are aware that there are ideological differences between the countries, but Lula wants to reactivate regional dialogue based on the common denominators the countries have,"" said Gisele Padovan, Secretary for Latin America and the Caribbean at Brazil's Foreign Ministry.
+
+""The aim of this initiative is to unite all the countries of the region once again,"" she told reporters on Friday.
+
+Unasur was set up during Lula's previous presidency, along with the leftist leaders of Venezuela and Argentina at the time, Hugo Chavez and Cristina Kirchner.
+
+But its last meeting was in 2015, as divisions began to paralyze the group and South American diplomacy was marked by governments split between left and right, especially after the impeachment of Lula's successor in Brazil, Dilma Rouusseff.
+
+In 2019, as the region's political pendulum swung the other way, the right-wing bloc ProSur was set up by then-presidents of Chile and Colombia, Sebastian Piñera and Ivan Duque. Also present were Brazil's Bolsonaro and Argentina's Mauricio Macri, along with conservative leaders of Ecuador, Peru and Paraguay.
+
+That group has also lost steam as elections swung several of those governments back to the left.","South American presidents led by Lula seek new shared agenda","https://www.reuters.com/world/americas/south-american-presidents-led-by-lula-seek-new-shared-agenda-2023-05-30/"
+"Reuters","https://www.reuters.com/world/europe/russias-reaction-drone-attacks-moscow-2023-05-30/","2023 Reuters","2023-05-30T12:00:00.000Z","1","Ukraine launched its biggest ever drone attack on Moscow on Tuesday but air defences destroyed all eight of the drones, Russia said, bringing the 15-month war in Ukraine to the heart of the capital.","/pf/resources/images/reuters/favicon/favicon.ico?d=143","https://www.reuters.com/resizer/pTcHSUTs7zrpocnwT3TeDO12dJQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EAGH3C6UOVMH5GQGALQK7LE5KU.jpg","REPI:GRID-INFRASTRUCTURE,MTVID,MTPIX,TOPNWS,AER,AERO,CCOS,COM,CWP,CYCS,CYCS08,DEF,DIP,DRONEM,ENR,EU,GEN,INDG,INDG08,INDS,INDS08,INTAG,MDIA,MDIA08,NATO,NEWS1,NRG,NUCL,POL,PPL,PUB,SECUR,TMT,TNPT,TOPCMB,WAR,CEEU,AMERS,US,EUROP,UA,RU,NASIA,NAMER,ASXPAC,CISC,EMRG,ASIA,EEU","en","/world/europe/drones-hit-several-buildings-moscow-mayor-2023-05-30/","drone attack","/world/europe/russian-mp-says-three-drones-downed-over-exclusive-moscow-suburb-2023-05-30/","exclusive Moscow suburb of Rublyovka","https://www.thomsonreuters.com/en/about-us/trust-principles.html","The Thomson Reuters Trust Principles.",,,,,,,,,,,,,,,,,,,,,"reuters.com","https://www.reuters.com/world/europe/russias-reaction-drone-attacks-moscow-2023-05-30/","Reuters","https://www.reuters.com/world/",,"Russia's reaction to the drone attacks on Moscow","https://www.reuters.com/world/","MOSCOW, May 30 (Reuters) - Ukraine launched its biggest ever drone attack on Moscow on Tuesday but air defences destroyed all eight of the drones, Russia said, bringing the 15-month war in Ukraine to the heart of the capital.
+
+Here are some Russian reactions to the attacks.
+
+""The president's working day started very early today. He received direct information both via the Defence Ministry and via the relevant departments."" He also received ""information from the Mayor of Moscow, the governor of the Moscow region, the Ministry of Emergency Situations"".
+
+""Everything worked properly, worked well. The air defence system also worked well. It is quite clear that we are talking about the Kyiv regime's response to our very effective strikes on one of the decision-making centres... on Sunday.
+
+""This once again confirms the need to continue this special military operation and achieve the set goals.""
+
+""It is, of course, obvious that this is an attack by the Kyiv regime. And this must be absolutely clearly understood.""
+
+""This morning, the Kyiv regime launched a terrorist attack with unmanned aerial vehicles on premises in the city of Moscow.
+
+""Eight unmanned aerial vehicles were involved in the attack. All enemy drones were hit.
+
+""Three of them were suppressed by electronic warfare, lost control and deviated from their intended goals. Five more unmanned aerial vehicles were shot down by the Pantsir-S anti-aircraft missile and cannon complex in the Moscow region.""
+
+Prigozhin, known for his expletive-laced language, commented on reports that drones had been downed over the exclusive Moscow suburb of Rublyovka, home to members of Russia's political, military and business elite whom he has often criticised fiercely as being insufficiently committed to the war.
+
+""Why the fuck are you allowing these drones to fly to Moscow? Who gives a shit that they are flying to your homes on Rublyovka! Let your houses burn,"" said Prigozhin.
+
+""And what should ordinary people do when drones with explosives crash into their windows? So as a citizen, I am deeply outraged that these scum sit quietly with their arseholes smeared with expensive creams. And that's why I think the people have every right to ask them these questions, these bastards.
+
+""But I have already warned about this many times, but no one wants to listen. Because I'm angry and I upset bureaucrats who have a great life.""
+
+""Early this morning, as a result of the UAV attack, minor damage occurred in several buildings.""
+
+""The sabotage and terrorist attacks of Ukraine will only increase,"" Khinshtein said. ""It is necessary to radically strengthen defence and security measures, especially in terms of countering drones. This includes finally passing the necessary laws.""
+
+""The fact that all 8 UAVs, according to the Ministry of Defence, were shot down by the air defence system or suppressed by electronic warfare is remarkable. But this should not reassure anyone. Do not underestimate the enemy!""
+
+""I would not give in to panic about the drone attack on Moscow and the Moscow region. Of all their number, almost nothing flew to target. I'm more concerned about where they came from, who launches them?
+
+""Firstly, it is necessary to make an analysis and draw conclusions, and, secondly, SMERSH (the much feared military counter-intelligence agency formed under Josef Stalin during World War Two) is necessary. Probably other powers are needed today so that the security forces can work at full capacity in all regions of the Russian Federation and beyond. This will instantly have an effect so that no bastard is allowed to wander around our country and crap all over the place.""","Russia's reaction to the drone attacks on Moscow","https://www.reuters.com/world/europe/russias-reaction-drone-attacks-moscow-2023-05-30/"
+"Reuters","https://www.reuters.com/world/india/india-monsoon-advances-after-stalling-11-days-2023-05-30/","2023 Reuters","2023-05-30T12:00:00.000Z","1","India's monsoon rains advanced into some more parts of southwest Bay of Bengal after stalling for the past 11 days at a far-flung island, weather department said on Tuesday.","/pf/resources/images/reuters/favicon/favicon.ico?d=143","https://www.reuters.com/resizer/WDwm1vMS2zvZgDtADpBUcY8KK0U=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NK7ZD2ARAJIBHH3IFHINHB2EVQ.jpg","RSBI:WATER-MANAGEMENT,AGRI,APPA,COM,COR,COT,COTFAR,CYCP,CYCP08,CYCS,CYCS08,ENV,FARM,FOBE,FOD,FOTB,GEN,GRA,NCYC,OILS,POIL,PRCP,RICE1,SFTS,SOIL,SOY1,SUG,SUGFAR,TEX,TXTL,UTIL,WATR,WEA,WHT,SASIA,IN,ASEAN,MY,SEASIA,LK,ASXPAC,ID,EMRG,ASIA","en","/world/india/india-monsoon-rains-arrive-late-hit-kerala-june-4-weather-office-2023-05-16/","June 4","https://www.thomsonreuters.com/en/about-us/trust-principles.html","The Thomson Reuters Trust Principles.",,,,,,,,,,,,,,,,,,,,,,,"reuters.com","https://www.reuters.com/world/india/india-monsoon-advances-after-stalling-11-days-2023-05-30/","Reuters","https://www.reuters.com/world/",,"India monsoon advances after stalling for 11 days","https://www.reuters.com/world/","MUMBAI, May 30 (Reuters) - India's monsoon rains advanced into some more parts of southwest Bay of Bengal after stalling for the past 11 days at a far-flung island, weather department said on Tuesday.
+
+The monsoon, the lifeblood of the country's $3 trillion economy, delivers nearly 70% of the rain that India needs to water farms and recharge reservoirs and aquifers.
+
+Nearly half of India's farmland, without any irrigation cover, depends on the annual June-September rains to grow a number of crops.
+
+Monsoon rains arrived over the remote Andaman and Nicobar Islands on May 19, but then didn't make any progress until May 30, the India Meteorological Department (IMD) said.
+
+Monsoon advanced into some parts of southwest Bay of Bengal on Tuesday and conditions are favourable for further advance into more parts of the region during the next 2-3 days, the IMD said.
+
+Rains usually lash mainland Kerala around June 1 and cover the whole country by mid-July. Timely rains trigger planting of crops such as rice, soybeans and cotton.
+
+This year, the onset of the monsoon over Kerala is likely to be slightly delayed. The onset of monsoon rains over the southern Indian state is likely to be on June 4, with a model error of plus/minus 4 days.","India monsoon advances after stalling for 11 days","https://www.reuters.com/world/india/india-monsoon-advances-after-stalling-11-days-2023-05-30/"
+"By Max Hunder","https://www.reuters.com/world/europe/ukraine-peace-plan-is-only-way-end-russias-war-says-zelenskiy-aide-2023-05-29/","2023 Reuters","2023-05-30T12:00:00.000Z","1","Kyiv's peace plan is the only way to end Russia's war in Ukraine and the time for mediation efforts has passed, a top aide to President Volodymyr Zelenskiy said.","/pf/resources/images/reuters/favicon/favicon.ico?d=143","https://www.reuters.com/resizer/7y7i9hNJlevjxdDoIjpvdch3I4g=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NITRNPPVBZOUDO7IOFWH3W52LE.jpg","MTVID,AER,AERO,CWP,DEF,DIP,G7,G8,GEN,INDG,INDG08,INDS,INDS08,INTAG,NEWS1,POL,WAR,CEEU,AMERS,EUROP,UA,RU,NASIA,NAMER,ASXPAC,CISC,EMRG,ASIA,EEU,TOPNWS","en","https://www.thomsonreuters.com/en/about-us/trust-principles.html","The Thomson Reuters Trust Principles.",,,,,,,,,,,,,,,,,,,,,,,,,"reuters.com","https://www.reuters.com/world/europe/ukraine-peace-plan-is-only-way-end-russias-war-says-zelenskiy-aide-2023-05-29/","Reuters","https://www.reuters.com/world/",,"Ukraine peace plan only way to end Russia's war, says Zelenskiy aide","https://www.reuters.com/world/","KYIV, May 29 (Reuters) - Kyiv's peace plan is the only way to end Russia's war in Ukraine and the time for mediation efforts has passed, a top aide to President Volodymyr Zelenskiy said.
+
+Chief diplomatic adviser Ihor Zhovkva told Reuters that Ukraine had no interest in a ceasefire that locks in Russian territorial gains, and wanted the implementation of its peace plan, which envisages the full withdrawal of Russian troops.
+
+He pushed back on a flurry of peace initiatives from China, Brazil, the Vatican and South Africa in recent months.
+
+""There cannot be a Brazilian peace plan, a Chinese peace plan, a South African peace plan when you are talking about the war in Ukraine,"" Zhovkva said in an interview late on Friday.
+
+Zelenskiy made a major push to court the Global South this month in response to peace moves from some of its members. He attended the Arab League summit in Saudi Arabia on May 19, holding talks with host Crown Prince Mohammed bin Salman, Iraq and other delegations.
+
+He then flew to Japan where he met the leaders of India and Indonesia - important voices in the Global South - on the sidelines of the Group of Seven summit of major economic powers in Hiroshima.
+
+While Kyiv has staunch backing from the West in its struggle against the Kremlin, it has not won the same support from the Global South - a term denoting Latin America, Africa and much of Asia - where Russia has invested diplomatic energy for years.
+
+Moscow has bolstered ties with Global South powers during the war in Ukraine, including by selling more of its energy to India and China.
+
+In response to a Western embargo on seaborne Russian oil imports, Russia has been working to reroute supplies away from its traditional European markets to Asia, Africa, Latin America and the Middle East.
+
+Russia's Foreign Minister Sergei Lavrov, who was in Nairobi on Monday hoping to nail down a trade pact with Kenya, has repeatedly travelled to Africa during the war and St Petersburg is due to host a Russia-Africa summit this summer.
+
+In a sign of how Ukraine is trying to challenge Russia's diplomatic sway, Ukraine's Foreign Minister Dmytro Kuleba embarked on his second wartime tour of Africa last week.
+
+Ukraine's Zhovkva said winning backing in the Global South was a top priority. While Ukraine focused on ties with Western partners at the invasion's start, securing peace was a matter of concern for all countries, he said.
+
+He played down the prospects of calls for dialogue with Russia made by Pope Francis who described Ukraine's occupied territories as a ""political problem"".
+
+""In this period of open war, we don't need any mediators. It's too late for mediation,"" he said.
+
+Zhovkva said the reaction to Ukraine's 10-point peace plan had been extremely positive at the G7 summit.
+
+""Not a single formula (point) had any concerns from the (G7) countries,"" Zhovkva said.
+
+Kyiv wanted G7 leaders to help bring as many Global South leaders as possible to a ""Peace Summit"" proposed by Kyiv this summer, he said, adding that the location was still being discussed.
+
+Russia has said it is open to peace talks with Kyiv, which stalled a few months into the invasion. But it insists that any talks be based on ""new realities"", meaning its declared annexation of five Ukrainian provinces it fully or partly controls - a condition Kyiv will not accept.
+
+China, the world's second-largest economy and Ukraine's top trade partner before the war, has touted a 12-point vision for peace which calls for a ceasefire but does not condemn the invasion or oblige Russia to withdraw from occupied territories.
+
+Beijing, which has close ties with Russia's leadership, sent top envoy Li Hui to Kyiv and Moscow this month to encourage peace talks.
+
+Zhovkva said the envoy was briefed in detail on the situation on the battlefield, at the Zaporizhzhia nuclear plant, the power grid and the transfer of Ukrainian children to Russia, which Kyiv says is a Russian war crime.
+
+""He listened very attentively. There was no immediate response … we will see. China is a wise country which understands its role in international affairs.""","Ukraine peace plan only way to end Russia's war, says Zelenskiy aide","https://www.reuters.com/world/europe/ukraine-peace-plan-is-only-way-end-russias-war-says-zelenskiy-aide-2023-05-29/"

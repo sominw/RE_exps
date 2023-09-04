@@ -1,0 +1,36 @@
+Methemoglobinemia associated with dermal application of benzocaine cream in a cat.
+[['benzocaine', 'Methemoglobinemia']]
+
+Iatrogenic hypercalcemia due to vitamin D3 ointment (1,24(OH)2D3) combined with thiazide diuretics in a case of psoriasis.
+[['1,24(OH)2D3', 'hypercalcemia'], ['thiazide', 'hypercalcemia'], ['vitamin D3', 'hypercalcemia']]
+
+Physicians should be aware that indinavir nephrolithiasis may cause papillary necrosis.
+[['indinavir', 'nephrolithiasis'], ['indinavir', 'papillary necrosis']]
+
+Docetaxel-induced Meibomian duct inflammation and blockage leading to chalazion formation.
+[['Docetaxel', 'chalazion'], ['Docetaxel', 'Meibomian duct inflammation and blockage']]
+
+We believe this is the first report of myocardial infarction due to coronary spasm, demonstrated by angiography associated with L-thyroxine therapy.
+[['L-thyroxine', 'coronary spasm'], ['L-thyroxine', 'myocardial infarction']]
+
+CONCLUSION: A patient with CHF and ESRD developed myoclonic muscle spasms after receiving dobutamine by continuous i.v. infusion.
+[['dobutamine', 'myoclonic muscle spasms']]
+
+Two heroin addicts, aged 34 and 19 years, developed ballistic movements after intravenous heroin overdose.
+[['heroin', 'ballistic movements']]
+
+Haemolytic-uraemic syndrome complicating long-term mitomycin C and 5-fluorouracil therapy for gastric carcinoma.
+[['5-fluorouracil', 'Haemolytic-uraemic syndrome'], ['mitomycin C', 'Haemolytic-uraemic syndrome']]
+
+Two cases of sirolimus-associated pneumonitis have been reported after cardiac transplantation.
+[['sirolimus', 'pneumonitis']]
+
+No explanation for this delay was found, other than the possibility that magnesium sulfate treatment impeded lactogenesis.
+[['magnesium sulfate', 'impeded lactogenesis']]
+
+Four years after the beginning of IFN therapy, he acutely developed moderate hyperglycemia and severe ketonuria with positive islet cell antibody, and then 28 units/day of insulin injection was started.
+[['IFN', 'moderate hyperglycemia'], ['IFN', 'severe ketonuria']]
+
+Diarrhoea, T-CD4+ lymphopenia and bilateral patchy pulmonary infiltrates developed in a male 60 yrs of age, who was treated with oxaliplatinum and 5-fluorouracil for unresectable rectum carcinoma.
+[['5-fluorouracil', 'bilateral patchy pulmonary infiltrates'], ['oxaliplatinum', 'bilateral patchy pulmonary infiltrates'], ['5-fluorouracil', 'Diarrhoea'], ['oxaliplatinum', 'Diarrhoea'], ['5-fluorouracil', 'T-CD4+ lymphopenia'], ['oxaliplatinum', 'T-CD4+ lymphopenia']]
+
